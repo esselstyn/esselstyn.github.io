@@ -11,8 +11,8 @@ title: Home
           Museum of Natural Science<br>
           Louisiana State University<br>
           119 Foster Hall<br>
-          Baton Rouge, LA 70803<br>
-          USA<br>
-          <br>
+          Baton Rouge, LA 70803
+          USA
+         
           phone: 225.578.3083<br>
           email: esselstyn [AT] lsu [DOT] edu
