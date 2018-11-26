@@ -7,12 +7,12 @@ title: Home
           
       
           <h3>Contact Information:</h3>
-          Jake Esselstyn<br>
-          Museum of Natural Science<br>
-          Louisiana State University<br>
-          119 Foster Hall<br>
+          Jake Esselstyn
+          Museum of Natural Science
+          Louisiana State University
+          119 Foster Hall
           Baton Rouge, LA 70803
           USA
          
-          phone: 225.578.3083<br>
+          phone: 225.578.3083
           email: esselstyn [AT] lsu [DOT] edu
