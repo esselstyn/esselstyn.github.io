@@ -5,7 +5,7 @@ title: Home
 <h1>Mammal lab at LSU</h1>
 <p>I am Curator of Mammals at the Museum of Natural Science and Assistant Professor in the Department of Biological Sciences at Louisiana State University. In the lab, we study speciation, island biogeography, phylogenetics, systematics, and community ecology.  Most of our research focuses on small mammals from Southeast Asia and Africa. In general, we conduct biodiversity surveys and use genetic and morphological characters to understand how organisms are related to, and interact with, one another.  Our efforts help inform how general biotic and abiotic processes produce the patterns of biodiversity we see today.</p>
           
-          <p>
+      
           <h3>Contact Information:</h3>
           Jake Esselstyn<br>
           Museum of Natural Science<br>
@@ -15,4 +15,4 @@ title: Home
           USA<br>
           <br>
           phone: 225.578.3083<br>
-          email: esselstyn [AT] lsu [DOT] edu</p>
+          email: esselstyn [AT] lsu [DOT] edu
