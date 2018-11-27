@@ -7,12 +7,12 @@ I am Curator of Mammals at the Museum of Natural Science and Assistant Professor
           
       
 ### Contact Information:
-Jake Esselstyn\\
-Museum of Natural Science\\
-Louisiana State University\\
-119 Foster Hall\\
-Baton Rouge, LA 70803\\
-USA\\
+Jake Esselstyn  
+Museum of Natural Science  
+Louisiana State University  
+119 Foster Hall  
+Baton Rouge, LA 70803  
+USA  
   
-phone: 225.578.3083\\
+phone: 225.578.3083  
 email: esselstyn [AT] lsu [DOT] edu
