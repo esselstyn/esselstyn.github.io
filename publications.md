@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+# Publications  
+
 #### 2018
 **Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi. _Molecular Phylogenetics and Evolution_. 118: 306-317.
 
