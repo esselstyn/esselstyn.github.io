@@ -14,5 +14,5 @@ Louisiana State University
 Baton Rouge, LA 70803  
 USA  
   
-phone: 225.578.3083  
-email: esselstyn [AT] lsu [DOT] edu
+**phone:** 225.578.3083  
+**email:** esselstyn [AT] lsu [DOT] edu
