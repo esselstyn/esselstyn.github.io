@@ -2,12 +2,12 @@
 layout: default
 title: People
 ---
-<h1>People</h1>
+# People
 
-<h3>PI: Jake Esselstyn</h3>
+### PI: Jake Esselstyn
 I am a mammalian systematist with general interests in evolutionary biology and community ecology.
 
-<h3>Grad Students:</h3> 
+### Grad Students:
 **Mark Swanson** is a PhD student studying the evolution of rodents and their microbiomes.  
 
 **Jon Nations** is a PhD student investigating the ecomorphological evolution and and community ecology of rodents.  
