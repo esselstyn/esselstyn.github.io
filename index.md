@@ -7,7 +7,7 @@ I am Curator of Mammals at the Museum of Natural Science and Assistant Professor
           
       
 ### Contact Information:
-Jake Esselstyn
+>Jake Esselstyn
 Museum of Natural Science
 Louisiana State University
 119 Foster Hall
