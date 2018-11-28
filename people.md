@@ -21,7 +21,7 @@ I am a mammalian systematist with general interests in evolutionary biology. My 
   
 <img src="images/spenser.jpg" alt="Spenser" width="300">  
 
-**Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by <a href="https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php" class="class2" target="_blank">Vinson Doyle</a>, a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
+**Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by [Vinson Doyle](https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php), a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
   
   
 <img src="images/heru.jpg" alt="Heru" width="300">  
