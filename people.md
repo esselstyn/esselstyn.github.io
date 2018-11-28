@@ -4,7 +4,7 @@ title: People
 ---
 ## People
 
-**Jake Esselstyn**
+**Jake Esselstyn**  
 I am a mammalian systematist with general interests in evolutionary biology. In general, my research explores questions of phylogeny and biogeography. All of it relies heavily on voucher specimens held in natural history museums. As such, I place a premium on contributing to the growth and use of museum collections.
 
 ## Grad Students:
