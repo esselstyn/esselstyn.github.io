@@ -4,8 +4,8 @@ title: People
 ---
 ## People
 
-## PI: Jake Esselstyn
-I am a mammalian systematist with general interests in evolutionary biology and community ecology.
+**Jake Esselstyn**
+I am a mammalian systematist with general interests in evolutionary biology. In general, my research explores questions of phylogeny and biogeography. All of it relies heavily on voucher specimens held in natural history museums. As such, I place a premium on contributing to the growth and use of museum collections.
 
 ## Grad Students:
 **Mark Swanson** is a PhD student studying the evolution of rodents and their microbiomes. Mark obtained his Bachelor's degree from Illinois Wesleyan University. Mark has contributed heavily to our efforts to better understand phylogenetic relationships among all mammals and to our field program, including participation in four expeditions to Sulawesi.  
