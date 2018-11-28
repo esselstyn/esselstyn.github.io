@@ -6,9 +6,9 @@ title: Publications
 # Publications  
 
 **2018**  
-**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi. _Molecular Phylogenetics and Evolution_. 118: 306-317.
+**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://www.sciencedirect.com/science/article/pii/S1055790316303852). _Molecular Phylogenetics and Evolution_. 118: 306-317.
 
-Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. Isolation by marine barriers and climate explain areas of endemism in an island rodent. _Journal of Biogeography_. DOI: 10.1111/jbi.13392.
+Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. [Isolation by marine barriers and climate explain areas of endemism in an island rodent](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13392). _Journal of Biogeography_. DOI: 10.1111/jbi.13392.
 
 Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA. Esselstyn**. 2018. A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines. _Journal of Mammalogy_. DOI: 10.1093/jmammaly/gyy041.
 
