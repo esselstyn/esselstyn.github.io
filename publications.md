@@ -15,7 +15,7 @@ Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA. Esselstyn**. 2018. [A new ge
 **2017**  
 **Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https:dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321. DOI: 10.1093/gbe/evx168.
 
-**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: Crocidura) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. DOI: 10.1093/jmammal/gyw183.
+**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: *Crocidura*) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. DOI: 10.1093/jmammal/gyw183.
 
 Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, RD Bradley, DR Brooks, R Cole, JR Demboski, AP Dobson, JL Dunnum, RP Eckerlin, **J Esselstyn**, KE Galbreath, J Hawdon, HE Hoekstra, SJ Kutz, JE Light, LE Olson, BD Patterson, JL Patton, AJ Phillips, E Rickart, DS Rogers, ME Siddall, VV Tkach, EP Hoberg. 2016. [Transformational principles for NEON sampling of mammalian parasites and pathogens: A response to Springer and colleagues](https://dx.doi.org/10.1093/biosci/biw123). *BioScience*. 66:917–919.
 
