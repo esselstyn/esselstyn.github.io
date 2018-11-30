@@ -15,7 +15,7 @@ Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA Esselstyn**. 2018. [A new gen
 Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Miguez, KC Rowe, P-H Fabre. 2018. [Convergent evolution of an extreme dietary specialization, the olfactory system of worm-eating rodents](https://dx.doi.org/10.1038/s41598-018-35827). *Scientific Reports* DOI: 10.1038/s41598-018-35827-0.
 
 **2017**  
-**Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https:dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321. DOI: 10.1093/gbe/evx168.
+**Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https://dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321. DOI: 10.1093/gbe/evx168.
 
 **Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: *Crocidura*) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. DOI: 10.1093/jmammal/gyw183.
 
