@@ -24,7 +24,7 @@ Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, R
 **2016**  
 **Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. [Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity](https://dx.doi.org/10.1111/mec.13820). *Molecular Ecology*. 25:5158–5173. DOI: 10.1111/mec.13820.
 
-**Esselstyn, JA**. 2016. Speciation in shrews (*Crocidura*) in the Philippine Archipelago. Pp. 64–65 in Heaney, LR, DS Balete & EA Rickart, *The Mammals of Luzon Island: Biogeography and Natural History of a Philippine Fauna*. Johns Hopkins University Press, Baltimore.
+**Esselstyn, JA**. 2016. Speciation in shrews (*Crocidura*) in the Philippine Archipelago. Pp. 64–65 in Heaney, LR, DS Balete,  EA Rickart, *The Mammals of Luzon Island: Biogeography and Natural History of a Philippine Fauna*. Johns Hopkins University Press, Baltimore.
 
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [Repeated evolution of carnivory among Indo-Australian rodents](https://dx.doi.org/10.1111/evo.12871). *Evolution*. 70:653–665.
 
