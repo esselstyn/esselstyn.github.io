@@ -6,25 +6,25 @@ title: Publications
 # Publications  
 
 **2018**  
-**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://www.sciencedirect.com/science/article/pii/S1055790316303852). _Molecular Phylogenetics and Evolution_. 118: 306-317.
+**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118: 306-317.
 
-Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. [Isolation by marine barriers and climate explain areas of endemism in an island rodent](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13392). _Journal of Biogeography_. DOI: 10.1111/jbi.13392.
+Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. [Isolation by marine barriers and climate explain areas of endemism in an island rodent](https://dx.doi.org/10.1111/jbi.13392). _Journal of Biogeography_. DOI: 10.1111/jbi.13392.
 
-Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA. Esselstyn**. 2018. [A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines](https://academic.oup.com/jmammal/article/99/3/518/4991977). _Journal of Mammalogy_. DOI: 10.1093/jmammaly/gyy041.
+Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA. Esselstyn**. 2018. [A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines](https:dx.doi.org/10.1093/jmammal/gyy041). _Journal of Mammalogy_. DOI: 10.1093/jmammal/gyy041.
 
 **2017**  
-**Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https://academic.oup.com/gbe/article/9/9/2308/4095375). *Genome Biology and Evolution*. 9:2308–2321. DOI: 10.1093/gbe/evx168.
+**Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https:dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321. DOI: 10.1093/gbe/evx168.
 
-**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: Crocidura) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://academic.oup.com/jmammal/article/98/1/183/2658451). *Journal of Mammalogy*. 98:183–193. DOI: 10.1093/jmammal/gyw183.
+**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: Crocidura) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. DOI: 10.1093/jmammal/gyw183.
 
-Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, RD Bradley, DR Brooks, R Cole, JR Demboski, AP Dobson, JL Dunnum, RP Eckerlin, **J Esselstyn**, KE Galbreath, J Hawdon, HE Hoekstra, SJ Kutz, JE Light, LE Olson, BD Patterson, JL Patton, AJ Phillips, E Rickart, DS Rogers, ME Siddall, VV Tkach, EP Hoberg. 2016. Transformational principles for NEON sampling of mammalian parasites and pathogens: A response to Springer and colleagues. *BioScience*. 66:917–919.
+Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, RD Bradley, DR Brooks, R Cole, JR Demboski, AP Dobson, JL Dunnum, RP Eckerlin, **J Esselstyn**, KE Galbreath, J Hawdon, HE Hoekstra, SJ Kutz, JE Light, LE Olson, BD Patterson, JL Patton, AJ Phillips, E Rickart, DS Rogers, ME Siddall, VV Tkach, EP Hoberg. 2016. [Transformational principles for NEON sampling of mammalian parasites and pathogens: A response to Springer and colleagues](https://dx.doi.org/10.1093/biosci/biw123). *BioScience*. 66:917–919.
 
 **2016**  
-**Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity. *Molecular Ecology*. 25:5158–5173. DOI: 10.1111/mec.13820.
+**Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. [Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity](https://dx.doi.org/10.1111/mec.13820). *Molecular Ecology*. 25:5158–5173. DOI: 10.1111/mec.13820.
 
 **Esselstyn, JA**. 2016. Speciation in shrews (*Crocidura*) in the Philippine Archipelago. Pp. 64–65 in Heaney, LR, DS Balete & EA Rickart, *The Mammals of Luzon Island: Biogeography and Natural History of a Philippine Fauna*. Johns Hopkins University Press, Baltimore.
 
-Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. Repeated evolution of carnivory among Indo-Australian rodents. *Evolution*. 70:653–665.
+Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [Repeated evolution of carnivory among Indo-Australian rodents](https://dx.doi.org/10.1111/evo.12871). *Evolution*. 70:653–665.
 
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. A new genus and species of omnivorous rodent (Muridae: Murinae) from Sulawesi, nested within a clade of endemic carnivores. *Journal of Mammalogy*. 97:978–991. DOI: 10.1093/jmammal/gyw029.
 
