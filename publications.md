@@ -21,7 +21,7 @@ Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Mig
 
 Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, RD Bradley, DR Brooks, R Cole, JR Demboski, AP Dobson, JL Dunnum, RP Eckerlin, **J Esselstyn**, KE Galbreath, J Hawdon, HE Hoekstra, SJ Kutz, JE Light, LE Olson, BD Patterson, JL Patton, AJ Phillips, E Rickart, DS Rogers, ME Siddall, VV Tkach, EP Hoberg. 2016. [Transformational principles for NEON sampling of mammalian parasites and pathogens: A response to Springer and colleagues](https://dx.doi.org/10.1093/biosci/biw123). *BioScience*. 66:917–919.
 
-**2016**  
+### 2016
 **Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. [Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity](https://dx.doi.org/10.1111/mec.13820). *Molecular Ecology*. 25:5158–5173. DOI: 10.1111/mec.13820.
 
 **Esselstyn, JA**. 2016. Speciation in shrews (*Crocidura*) in the Philippine Archipelago. Pp. 64–65 in Heaney, LR, DS Balete,  EA Rickart, *The Mammals of Luzon Island: Biogeography and Natural History of a Philippine Fauna*. Johns Hopkins University Press, Baltimore.
@@ -30,7 +30,7 @@ Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [Repeated evolution of carnivory a
 
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [A new genus and species of omnivorous rodent (Muridae: Murinae) from Sulawesi, nested within a clade of endemic carnivores](https://dx.doi.org/10.1093/jmammal/gyw029). *Journal of Mammalogy*. 97:978–991. DOI: 10.1093/jmammal/gyw029.
 
-**2015**  
+### 2015
 **Esselstyn, JA**, AS Achmadi, H Handika, KC Rowe. 2015. [A hog-nosed shrew rat (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.1093/jmammal/gyv093). *Journal of Mammalogy*. 96:895–907. DOI: 10.1093/jmammal/gyv093.
 
 **Giarla, TC**,  **JA Esselstyn**. 2015. [The challenges of resolving a rapid, recent radiation: Empirical and simulated phylogenomics of Philippine shrews](https://dx.doi.org/10.1093/sysbio/syv029). *Systematic Biology*. 64:727–740. DOI: 10.1093/sysbio/syv029.
@@ -39,7 +39,7 @@ Justiniano, R, JJ Schenk, DS Balete, EA Rickart, **JA Esselstyn**, LR Heaney, SJ
 
 Stanley, WT, R Hutterer, **TC Giarla**, **JA Esselstyn**. 2015. [Phylogeny, phylogeography and geographic variation in the *Crocidura monax* (Soricidae) species complex from the montane islands of Tanzania, with descriptions of three new species](https://dx.doi.org/10.1111/zoj.12230). *Zoological Journal of the Linnean Society*. 174:185–215. DOI: 10.1111/zoj.12230.
 
-**2014**  
+### 2014
 Achmadi, AS, KC Rowe, **JA Esselstyn**. 2014. New records of two rarely encountered, endemic rats (Rodentia: Muridae: Murinae) from Gunung Gandangdewata, West Sulawesi province. *Treubia*. 41:51-60.
 
 Amar, A, **JA Esselstyn**. 2014. [Positive association between rat abundance and breeding success of the critically endangered Mariana crow *Corvus kubaryi*](https://dx.doi.org/10.1017/S095927091300018X). *Bird Conservation International*. 24:192-200.
@@ -58,7 +58,7 @@ Musser, GG, AS Achmadi, **JA Esselstyn**, KC Rowe. 2014. *Bunomys torajae*, new 
 
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2014. [Convergenty evolution of aquatic foraging in a new genus and species (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.11646/zootaxa.3815.4.5). *Zootaxa*. 3815:541-564.
 
-**2013**  
+### 2013
 Achmadi, AS, **JA Esselstyn**, KC Rowe, I Maryanto, MT Abdulah. 2013. [Phylogeny, diversity, and biogeography of Southeast Asian endemic spiny mice (*Maxomys*)](https://dx.doi.org/10.1644/13-MAMM-A-092.1). *Journal of Mammalogy*. 94:1412-1423.
 
 Brown, RM, CD Siler, CH Oliveros, **JA Esselstyn**, AC Diesmos, PA Hosner, CW Linkem, AJ Barley, JR Oaks, MB Sanguila, LJ Welton, RG Moyle, AT Peterson, AC Alcala. 2013. [Evolutionary processes of diversification in a model island archipelago](https://dx.doi.org/10.1146/annurev-ecolsys-110411-160323). *Annual Review of Ecology, Evolution, and Systematics*. 44:1-24. 
@@ -69,17 +69,17 @@ Oaks, JR, J Sukumaran, **JA Esselstyn**, CW Linkem, CD Siler, MT Holder, RM Brow
 
 Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J Hulselmans, V Prévot, E Verheyen, R Hutterer, JB Doty, BP Moore, YJ Nakazawa, Z Braden, D Carroll, JC Kerbis Peterhans, JM Bates, **JA Esselstyn**. 2013. [A new hero emerges: another exceptional mammalian spine and its potential adaptive significance](https://dx.doi.org/10.1098/rsbl.2013.0486). *Biology Letters*. DOI: 10.1098/rsbl.2013.0486.
 
-**2012**  
+### 2012
 **Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993.
 
 **Esselstyn JA**, BJ Evans, JL Sedlock, FAA Khan, LR Heaney. 2012. [Single-locus species delimitation: A test of the mixed Yule-coalescent model, with an empirical application to Philippine round-leaf bats](https://dx.doi.org/10.1098/rspb.2012.0705). *Proceedings of the Royal Society B: Biological Sciences*. 279:3678-3686.
 
-**2011**  
+### 2011
 **Esselstyn JA**, SP Maher, RM Brown. 2011. [Species interactions during diversification and community assembly in an island radiation of shrews](https://dx.doi.org/10.1371/journal.pone.0021885). *PLoS ONE*. e21885.
 
 Wiles, GJ, TJ O'Shea, DJ Worthington, **JA Esselstyn**, EW Valdez. 2011. [Status and natural history of the last knwon population of *Emballonura semicaudata rotensis*](https://dx.doi.org/10.3161/150811011X624785). *Acta Chiropterologica*. 13:299-309.
 
-**2010**  
+### 2010
 Brown, RM, CW Linkem, CD Siler, J Sukumaran, **JA Esselstyn**, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619.
 
 **Esselstyn, JA**. 2010. At long last, an authoritative guide to the mammals of Indochina. *Journal of Mammalian Evolution*. 17:215-216.
@@ -98,17 +98,17 @@ Siler, CD, JR Oaks, **JA Esselstyn**, AC Diesmos, RM Brown. 2010. [Phylogeny and
 
 Stanley, WT, **JA Esselstyn**. 2010. [Biogeography and diversity among montane populations of mouse shrew (Soricidae: *Myosorex*) in Tanzania](https://dx.doi.org/10.1111/j.1095-8312.2010.01448.x). *Biological Journal of the Linnean Society*. 100:669-680.
 
-**2009**  
+### 2009
 **Esselstyn, JA**, RM Brown. 2009. [The role of repeated sea-level fluctuations in the generation of shrew (Soricidae: *Crocidura*) diversity in the Philippine Archipelago](https://dx.doi.org/10.1016/j.ympev.2009.05.034). *Molecular Phylogenetics and Evolution*. 53:171-181.
 
 **Esselstyn, JA**, RM Timm, RM Brown. 2009. [Do geological or climatic processes drive speciation in dynamic archipelagos? The tempo and mode of diversification in Southeast Asian shrews](https://dx.doi.org/10.1111/j.1558-5646.2009.00743.x). *Evolution*. 63:2595-2610.
 
-**2008**  
+### 2008
 Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population trends of the forest bird community on the Pacific island of Rota, Mariana Islands](https://dx.doi.org/10.1525/cond.2008.8560). *Condor*. 110:421-427.
 
 **Esselstyn, JA**, HJD Garcia, MG Saulog, LR Heaney. 2008. [A new species of *Desmalopex* (Pteropodidae) from the Philippines, with a phylogenetic analysis of the Pteropodini](https://dx.doi.org/10.1644/07-MAMM-A-285.1). *Journal of Mammalogy*. 89:815-825.
 
-**2007 and earlier**  
+### 2007 and earlier
 **Esselstyn, JA**. 2007. [A new species of stripe-faced fruit bat (Chiroptera: Pteropodidae: *Styloctenium*) from the Philippines](https://dx.doi.org/10.1644/06-MAMM-A-294R.1). *Journal of Mammalogy*. 88:951-958.
 
 **Esselstyn, JA**. 2007. [Should universal guidelines be applied to taxonomic research?](https://dx.doi.org/10.1111/j.1095-8312.2007.00776.x). *Biological Journal of the Linnean Society*. 90:761-764.
