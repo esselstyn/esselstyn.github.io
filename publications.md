@@ -40,4 +40,16 @@ Justiniano, R, JJ Schenk, DS Balete, EA Rickart, **JA Esselstyn**, LR Heaney, SJ
 Stanley, WT, R Hutterer, **TC Giarla**, **JA Esselstyn**. 2015. [Phylogeny, phylogeography and geographic variation in the *Crocidura monax* (Soricidae) species complex from the montane islands of Tanzania, with descriptions of three new species](https://dx.doi.org/10.1111/zoj.12230). *Zoological Journal of the Linnean Society*. 174:185–215. DOI: 10.1111/zoj.12230.
 
 **2014**  
+Achmadi, AS, KC Rowe, **JA Esselstyn**. 2014. New records of two rarely encountered, endemic rats (Rodentia: Muridae: Murinae) from Gunung Gandangdewata, West Sulawesi province. *Treubia*. 41:51-60.
 
+Amar, A, **JA Esselstyn**. 2014. [Positive association between rat abundance and breeding success of the critically endangered Mariana crow *Corvus kubaryi*](https://dx.doi.org/10.1017/S095927091300018X). *Bird Conservation International*. 24:192-200.
+
+Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Neri-Arboleda, **JA Esselstyn**, NJ Dominy, PS Ong, GL Moritz, A Luczon, MLL Diesmos, AC Diesmos, CD Siler. 2014. [Conservation genetics of the Philippine tarsier: Cryptic genetic variation restructures conservation priorities for an island archipelago primate](https://dx.doi.org/10.1371/journal.pone.0104340). *PLoS ONE* DOI: 101371/journal.pone.0104340.
+
+**Esselstyn, JA**, AS Achmadi, Maharadatunkamsi. 2014. [A new species of shrew (Soricomorpha: *Crocidura*) from West Java, Indonesia](https://dx.doi.org/10.1644/13-MAMM-A-215). *Journal of Mammalogy*. 95:216-224.
+
+Evans, BJ, K Zeng, **JA Esselstyn**, B Charleworth, D Melnick. 2014. [Reduced representation genome sequencing suggests low diversity on the sex chromosomes of tonkean macaque monkeys](https://dx.doi.org/10.1093/molbev/msu197). *Molecular Biology and Evolution*. 31:2425-2440.
+
+Heaney, LR, DS Balete, MJ Veluz, SJ Steppan, **JA Esselstyn**, AW Pfeiffer, EA Rickart. 2014. [Two new species of Philippine forest mice (*Apomys*, Muridae, Rodentia) from Lubang and Luzon islands, with a redescription of *Apomys sacobianus* Johnsono, 1962](https://dx.doi.org/10.2988/0006-324X-126.4.395). *Proceedings of the Biological Society of Washington*. 126:395-413.
+
+Kang
