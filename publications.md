@@ -58,6 +58,7 @@ Musser, GG, AS Achmadi, **JA Esselstyn**, KC Rowe. 2014. *Bunomys torajae*, new 
 
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2014. [Convergenty evolution of aquatic foraging in a new genus and species (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.11646/zootaxa.3815.4.5). *Zootaxa*. 3815:541-564.
 
+**2013**  
 Achmadi, AS, **JA Esselstyn**, KC Rowe, I Maryanto, MT Abdulah. 2013. [Phylogeny, diversity, and biogeography of Southeast Asian endemic spiny mice (*Maxomys*)](https://dx.doi.org/10.1644/13-MAMM-A-092.1). *Journal of Mammalogy*. 94:1412-1423.
 
 Brown, RM, CD Siler, CH Oliveros, **JA Esselstyn**, AC Diesmos, PA Hosner, CW Linkem, AJ Barley, JR Oaks, MB Sanguila, LJ Welton, RG Moyle, AT Peterson, AC Alcala. 2013. [Evolutionary processes of diversification in a model island archipelago](https://dx.doi.org/10.1146/annurev-ecolsys-110411-160323). *Annual Review of Ecology, Evolution, and Systematics*. 44:1-24. 
@@ -68,16 +69,38 @@ Oaks, JR, J Sukumaran, **JA Esselstyn**, CW Linkem, CD Siler, MT Holder, RM Brow
 
 Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J Hulselmans, V Prévot, E Verheyen, R Hutterer, JB Doty, BP Moore, YJ Nakazawa, Z Braden, D Carroll, JC Kerbis Peterhans, JM Bates, **JA Esselstyn**. 2013. [A new hero emerges: another exceptional mammalian spine and its potential adaptive significance](https://dx.doi.org/10.1098/rsbl.2013.0486). *Biology Letters*. DOI: 10.1098/rsbl.2013.0486.
 
+**2012**  
 **Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993.
 
 **Esselstyn JA**, BJ Evans, JL Sedlock, FAA Khan, LR Heaney. 2012. [Single-locus species delimitation: A test of the mixed Yule-coalescent model, with an empirical application to Philippine round-leaf bats](https://dx.doi.org/10.1098/rspb.2012.0705). *Proceedings of the Royal Society B: Biological Sciences*. 279:3678-3686.
 
+**2011**  
 **Esselstyn JA**, SP Maher, RM Brown. 2011. [Species interactions during diversification and community assembly in an island radiation of shrews](https://dx.doi.org/10.1371/journal.pone.0021885). *PLoS ONE*. e21885.
 
 Wiles, GJ, TJ O'Shea, DJ Worthington, **JA Esselstyn**, EW Valdez. 2011. [Status and natural history of the last knwon population of *Emballonura semicaudata rotensis*](https://dx.doi.org/10.3161/150811011X624785). *Acta Chiropterologica*. 13:299-309.
 
-Brown, RM, CW Linkem, CD Siler, J Sukumaran, JA Esselstyn, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619.
+**2010**  
+Brown, RM, CW Linkem, CD Siler, J Sukumaran, **JA Esselstyn**, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619.
 
 **Esselstyn, JA**. 2010. At long last, an authoritative guide to the mammals of Indochina. *Journal of Mammalian Evolution*. 17:215-216.
 
 **Esselstyn, JA**, SM Goodman. 2010. [New species of shrew (Soricidae: *Crocidura*) from Sibuyan Island, Philippines](https://dx.doi.org/10.1644/10-MAMM-A-002.1). *Journal of Mammalogy*. 91:1467-1472.
+
+**Esselstyn JA**, CH Oliveros. 2010. [Colonization of the Philippines from Taiwan: a multi-locus test of the biogeographic and phylogenetic relationships of isolated populations of shrews](https://dx.doi.org/10.1111/j.1365-2699.2010.02295.x). *Journal of Biogeography*. 37:1504-1514.
+
+**Esselstyn JA**, CH Oliveros, RG Moyle, AT Peterson, JA McGuire, RM Brown. 2010. [Integrating phylogenetic and taxonomic evidence illuminates complex biogeographic patterns along Huxley's modification of Wallace's Line](https://dx.doi.org/10.1111/j.1365-2699.2010.02378.x). *Journal of Biogeography*. 37:2054-2066.
+
+Heaney, LR, ML Dollar, DS Balete, **JA Esselstyn**, EA Rickart, JL Sedlock. 2010. [Synopsis of Philippine mammals](http://www.fieldmuseum.org/philippine_mammals/).
+
+Patou, ML, A Wilting, P Gaubert, **JA Esselstyn** C Cruad, AP Jennings, J Fickel, G Veron. 2010. [Evolutionary history of the *Paradoxurus* palm civets -- a new model for Asian biogeography](https://dx.doi.org/10.1111/j.1365-2699.2010.02364.x). *Journal of Biogeography*. 37:2077-2097.
+
+Siler, CD, JR Oaks, **JA Esselstyn**, AC Diesmos, RM Brown. 2010. [Phylogeny and biogeography of Philippine bent-toed geckos (Gekkonidae: *Cyrtodactylus*) contradict a prevailing model of Pleistocene diversification](https://dx.doi.org/10.1016/j.ympev.2010.01.027). *Molecular Phylogenetics and Evolution*. 55:699-710.
+
+Stanley, WT, **JA Esselstyn**. 2010. [Biogeography and diversity among montane populations of mouse shrew (Soricidae: *Myosorex*) in Tanzania](https://dx.doi.org/10.1111/j.1095-8312.2010.01448.x). *Biological Journal of the Linnean Society*. 100:669-680.
+
+**2009**  
+**Esselstyn, JA**, RM Brown. 2009. [The role of repeated sea-level fluctuations in the generation of shrew (Soricidae: *Crocidura*) diversity in the Philippine Archipelago](https://dx.doi.org/10.1016/j.ympev.2009.05.034). *Molecular Phylogenetics and Evolution*. 53:171-181.
+
+**Esselstyn, JA**, RM Timm, RM Brown. 2009. [Do geological or climatic processes drive speciation in dynamic archipelagos? The tempo and mode of diversification in Southeast Asian shrews](https://dx.doi.org/10.1111/j.1558-5646.2009.00743.x). *Evolution*. 63:2595-2610.
+
+**2008**  
