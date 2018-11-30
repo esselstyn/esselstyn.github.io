@@ -62,4 +62,11 @@ Achmadi, AS, **JA Esselstyn**, KC Rowe, I Maryanto, MT Abdulah. 2013. [Phylogeny
 
 Brown, RM, CD Siler, CH Oliveros, **JA Esselstyn**, AC Diesmos, PA Hosner, CW Linkem, AJ Barley, JR Oaks, MB Sanguila, LJ Welton, RG Moyle, AT Peterson, AC Alcala. 2013. [Evolutionary processes of diversification in a model island archipelago](https://dx.doi.org/10.1146/annurev-ecolsys-110411-160323). *Annual Review of Ecology, Evolution, and Systematics*. 44:1-24. 
 
+**Esselstyn, JA**, Maharadatunkamsi, AS Achmadi, CD Siler, BJ Evans. 2013. [Carving out turf in a biodiversity hotspot: Multiple previously unrecognized shrew species co-occur on Java Island, Indonesia](https://dx.doi.org/10.1111/mec12450). *Molecular Ecology*. 22:4972-4987.
+
+Oaks, JR, J Sukumaran, **JA Esselstyn**, CW Linkem, CD Siler, MT Holder, RM Brown. 2013. [Evidence for climate-driven diversification? A caution for interpreting ABC inferences of simultaneous historical events](https://dx.doi.org/10.1111/j.1558-5646.2012.01840.x). *Evolution*. 67:991-1010.
+
+Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J Hulselmans, V Prévot, E Verheyen, R Hutterer, JB Doty, BP Moore, YJ Nakazawa, Z Braden, D Carroll, JC Kerbis Peterhans, JM Bates, **JA Esselstyn**. 2013. [A new hero emerges: another exceptional mammalian spine and its potential adaptive significance](https://dx.doi.org/10.1098/rsbl.2013.0486). *Biology Letters*. DOI: 10.1098/rsbl.2013.0486.
+
+**Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993.
 
