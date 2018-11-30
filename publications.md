@@ -108,7 +108,7 @@ Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population tr
 
 **Esselstyn, JA**, HJD Garcia, MG Saulog, LR Heaney. 2008. [A new species of *Desmalopex* (Pteropodidae) from the Philippines, with a phylogenetic analysis of the Pteropodini](https://dx.doi.org/10.1644/07-MAMM-A-285.1). *Journal of Mammalogy*. 89:815-825.
 
-**<=2007**  
+**2007 and earlier**  
 **Esselstyn, JA**. 2007. [A new species of stripe-faced fruit bat (Chiroptera: Pteropodidae: *Styloctenium*) from the Philippines](https://dx.doi.org/10.1644/06-MAMM-A-294R.1). *Journal of Mammalogy*. 88:951-958.
 
 **Esselstyn, JA**. 2007. [Should universal guidelines be applied to taxonomic research?](https://dx.doi.org/10.1111/j.1095-8312.2007.00776.x). *Biological Journal of the Linnean Society*. 90:761-764.
