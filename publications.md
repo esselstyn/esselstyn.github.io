@@ -70,3 +70,14 @@ Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J H
 
 **Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993.
 
+**Esselstyn JA**, BJ Evans, JL Sedlock, FAA Khan, LR Heaney. 2012. [Single-locus species delimitation: A test of the mixed Yule-coalescent model, with an empirical application to Philippine round-leaf bats](https://dx.doi.org/10.1098/rspb.2012.0705). *Proceedings of the Royal Society B: Biological Sciences*. 279:3678-3686.
+
+**Esselstyn JA**, SP Maher, RM Brown. 2011. [Species interactions during diversification and community assembly in an island radiation of shrews](https://dx.doi.org/10.1371/journal.pone.0021885). *PLoS ONE*. e21885.
+
+Wiles, GJ, TJ O'Shea, DJ Worthington, **JA Esselstyn**, EW Valdez. 2011. [Status and natural history of the last knwon population of *Emballonura semicaudata rotensis*](https://dx.doi.org/10.3161/150811011X624785). *Acta Chiropterologica*. 13:299-309.
+
+Brown, RM, CW Linkem, CD Siler, J Sukumaran, JA Esselstyn, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619.
+
+**Esselstyn, JA**. 2010. At long last, an authoritative guide to the mammals of Indochina. *Journal of Mammalian Evolution*. 17:215-216.
+
+**Esselstyn, JA**, SM Goodman. 2010. [New species of shrew (Soricidae: *Crocidura*) from Sibuyan Island, Philippines](https://dx.doi.org/10.1644/10-MAMM-A-002.1). *Journal of Mammalogy*. 91:1467-1472.
