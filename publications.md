@@ -52,4 +52,14 @@ Evans, BJ, K Zeng, **JA Esselstyn**, B Charleworth, D Melnick. 2014. [Reduced re
 
 Heaney, LR, DS Balete, MJ Veluz, SJ Steppan, **JA Esselstyn**, AW Pfeiffer, EA Rickart. 2014. [Two new species of Philippine forest mice (*Apomys*, Muridae, Rodentia) from Lubang and Luzon islands, with a redescription of *Apomys sacobianus* Johnson, 1962](https://dx.doi.org/10.2988/0006-324X-126.4.395). *Proceedings of the Biological Society of Washington*. 126:395-413.
 
-Kang
+Kang, HJ, WT Stanley, **JA Esselstyn**, SH Gu, R Yanagihara. 2014. [Expanded host diversity and geographic distribution of hantaviruses in Sub-Saharan Africa](https://dx.doi.org/10.1128/JVI.00285-14). *Journal of Virology* 88:7663-7667.
+
+Musser, GG, AS Achmadi, **JA Esselstyn**, KC Rowe. 2014. *Bunomys torajae*, new species. In GG Musser. [A systematic review of Sualwesi *Bunomys* (Muridae, Murinae) with the description of two new species](https://dx.doi.org/10.1206/863.1). *Bulletin of the American Museum of Natural History*. 392:124-139.
+
+Rowe, KC, AS Achmadi, **JA Esselstyn**. 2014. [Convergenty evolution of aquatic foraging in a new genus and species (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.11646/zootaxa.3815.4.5). *Zootaxa*. 3815:541-564.
+
+Achmadi, AS, **JA Esselstyn**, KC Rowe, I Maryanto, MT Abdulah. 2013. [Phylogeny, diversity, and biogeography of Southeast Asian endemic spiny mice (*Maxomys*)](https://dx.doi.org/10.1644/13-MAMM-A-092.1). *Journal of Mammalogy*. 94:1412-1423.
+
+Brown, RM, CD Siler, CH Oliveros, **JA Esselstyn**, AC Diesmos, PA Hosner, CW Linkem, AJ Barley, JR Oaks, MB Sanguila, LJ Welton, RG Moyle, AT Peterson, AC Alcala. 2013. [Evolutionary processes of diversification in a model island archipelago](https://dx.doi.org/10.1146/annurev-ecolsys-110411-160323). *Annual Review of Ecology, Evolution, and Systematics*. 44:1-24. 
+
+
