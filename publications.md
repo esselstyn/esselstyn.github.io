@@ -104,3 +104,19 @@ Stanley, WT, **JA Esselstyn**. 2010. [Biogeography and diversity among montane p
 **Esselstyn, JA**, RM Timm, RM Brown. 2009. [Do geological or climatic processes drive speciation in dynamic archipelagos? The tempo and mode of diversification in Southeast Asian shrews](https://dx.doi.org/10.1111/j.1558-5646.2009.00743.x). *Evolution*. 63:2595-2610.
 
 **2008**  
+Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population trends of the forest bird community on the Pacific island of Rota, Mariana Islands](https://dx.doi.org/10.1525/cond.2008.8560). *Condor*. 110:421-427.
+
+**Esselstyn, JA**, HJD Garcia, MG Saulog, LR Heaney. 2008. [A new species of *Desmalopex* (Pteropodidae) from the Philippines, with a phylogenetic analysis of the Pteropodini](https://dx.doi.org/10.1644/07-MAMM-A-285.1). *Journal of Mammalogy*. 89:815-825.
+
+**<=2007**  
+**Esselstyn, JA**. 2007. [A new species of stripe-faced fruit bat (Chiroptera: Pteropodidae: *Styloctenium*) from the Philippines](https://dx.doi.org/10.1644/06-MAMM-A-294R.1). *Journal of Mammalogy*. 88:951-958.
+
+**Esselstyn, JA**. 2007. [Should universal guidelines be applied to taxonomic research?](https://dx.doi.org/10.1111/j.1095-8312.2007.00776.x). *Biological Journal of the Linnean Society*. 90:761-764.
+
+**Esselstyn, JA**, A Amar, D Janeke. 2006. [Impact of post-typhoon hunting on Mariana fruit bats (*Pteropus mariannus*)](https://dx.doi.org/10.1353/psc.2006.0027). *Pacific Science*. 60:531-539.
+
+**Esselstyn, JA**, P Widmann, LR Heaney. 2004. The mammals of Palawan Island, Philippines. *Proceedings of the Biological Society of Washington*. 117:271-302.
+
+**Esselstyn, JA**, GJ Wiles, A Amar. 2004. [Habitat use of the Pacific sheath-tailed bat (*Emballonura semicaudata*) on Aguiguan, Mariana Islands](https://dx.doi.org/10.3161/001.006.0208). *Acta Chiropterological*. 6:303-308.
+
+**Esselstyn, JA**, RC Wildman. 1997. [Observations of *Juga* in the diet of larval Pacific giant salamanders (*Dicamptodon tenebrosus*)](https://dx.doi.org/10.2307/3536849). *Northwestern Naturalist*. 78:70-73.
