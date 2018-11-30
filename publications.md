@@ -50,6 +50,6 @@ Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Ne
 
 Evans, BJ, K Zeng, **JA Esselstyn**, B Charleworth, D Melnick. 2014. [Reduced representation genome sequencing suggests low diversity on the sex chromosomes of tonkean macaque monkeys](https://dx.doi.org/10.1093/molbev/msu197). *Molecular Biology and Evolution*. 31:2425-2440.
 
-Heaney, LR, DS Balete, MJ Veluz, SJ Steppan, **JA Esselstyn**, AW Pfeiffer, EA Rickart. 2014. [Two new species of Philippine forest mice (*Apomys*, Muridae, Rodentia) from Lubang and Luzon islands, with a redescription of *Apomys sacobianus* Johnsono, 1962](https://dx.doi.org/10.2988/0006-324X-126.4.395). *Proceedings of the Biological Society of Washington*. 126:395-413.
+Heaney, LR, DS Balete, MJ Veluz, SJ Steppan, **JA Esselstyn**, AW Pfeiffer, EA Rickart. 2014. [Two new species of Philippine forest mice (*Apomys*, Muridae, Rodentia) from Lubang and Luzon islands, with a redescription of *Apomys sacobianus* Johnson, 1962](https://dx.doi.org/10.2988/0006-324X-126.4.395). *Proceedings of the Biological Society of Washington*. 126:395-413.
 
 Kang
