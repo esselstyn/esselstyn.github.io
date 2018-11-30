@@ -44,7 +44,7 @@ Achmadi, AS, KC Rowe, **JA Esselstyn**. 2014. New records of two rarely encounte
 
 Amar, A, **JA Esselstyn**. 2014. [Positive association between rat abundance and breeding success of the critically endangered Mariana crow *Corvus kubaryi*](https://dx.doi.org/10.1017/S095927091300018X). *Bird Conservation International*. 24:192-200.
 
-Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Neri-Arboleda, **JA Esselstyn**, NJ Dominy, PS Ong, GL Moritz, A Luczon, MLL Diesmos, AC Diesmos, CD Siler. 2014. [Conservation genetics of the Philippine tarsier: Cryptic genetic variation restructures conservation priorities for an island archipelago primate](https://dx.doi.org/10.1371/journal.pone.0104340). *PLoS ONE* DOI: 101371/journal.pone.0104340.
+Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Neri-Arboleda, **JA Esselstyn**, NJ Dominy, PS Ong, GL Moritz, A Luczon, MLL Diesmos, AC Diesmos, CD Siler. 2014. [Conservation genetics of the Philippine tarsier: Cryptic genetic variation restructures conservation priorities for an island archipelago primate](https://dx.doi.org/10.1371/journal.pone.0104340). *PLoS ONE*. DOI: 101371/journal.pone.0104340.
 
 **Esselstyn, JA**, AS Achmadi, Maharadatunkamsi. 2014. [A new species of shrew (Soricomorpha: *Crocidura*) from West Java, Indonesia](https://dx.doi.org/10.1644/13-MAMM-A-215). *Journal of Mammalogy*. 95:216-224.
 
@@ -56,7 +56,7 @@ Kang, HJ, WT Stanley, **JA Esselstyn**, SH Gu, R Yanagihara. 2014. [Expanded hos
 
 Musser, GG, AS Achmadi, **JA Esselstyn**, KC Rowe. 2014. *Bunomys torajae*, new species. In GG Musser. [A systematic review of Sualwesi *Bunomys* (Muridae, Murinae) with the description of two new species](https://dx.doi.org/10.1206/863.1). *Bulletin of the American Museum of Natural History*. 392:124-139.
 
-Rowe, KC, AS Achmadi, **JA Esselstyn**. 2014. [Convergenty evolution of aquatic foraging in a new genus and species (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.11646/zootaxa.3815.4.5). *Zootaxa*. 3815:541-564.
+Rowe, KC, AS Achmadi, **JA Esselstyn**. 2014. [Convergent evolution of aquatic foraging in a new genus and species (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.11646/zootaxa.3815.4.5). *Zootaxa*. 3815:541-564.
 
 ### 2013
 Achmadi, AS, **JA Esselstyn**, KC Rowe, I Maryanto, MT Abdulah. 2013. [Phylogeny, diversity, and biogeography of Southeast Asian endemic spiny mice (*Maxomys*)](https://dx.doi.org/10.1644/13-MAMM-A-092.1). *Journal of Mammalogy*. 94:1412-1423.
