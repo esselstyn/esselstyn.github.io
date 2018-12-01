@@ -7,7 +7,7 @@ title: People
 <img src="images/jake.jpg" alt="jake" width="300">
 
 **PI: Jake Esselstyn**  
-I am a mammalian systematist with general interests in evolutionary biology and biogeography. My research explores questions of phylogeny, island biogeography, and taxonomy, but my studnets' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections. In recent years, we've collected mammal specimens in Indonesia, Malaysia, the Democratic Republic of the Congo, and the Southeastern U.S.
+I am a mammalian systematist with general interests in evolutionary biology and biogeography. My research explores questions of phylogeny, island biogeography, and taxonomy, but my students' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections. In recent years, we've collected mammal specimens in Indonesia, Malaysia, the Democratic Republic of the Congo, and the Southeastern U.S.
 </div>
 
 ## Grad Students:
@@ -20,7 +20,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 <div markdown="1">
 <img src="images/jon.jpg" alt="Jon" width="300">  
 
-**Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a Graduate Research Felloship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
+**Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a Graduate Research Fellowship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
 </div>
 
 <div markdown="1">
