@@ -32,7 +32,8 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
     background-color: lightgray;
-    margin: 150px;
+    margin: 10px 300px;
+    padding: 5px 0px;
 }
 p {
     font-size: 1.5em;
