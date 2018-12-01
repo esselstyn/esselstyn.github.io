@@ -14,13 +14,13 @@ I am a mammalian systematist with general interests in evolutionary biology. My 
 <div markdown="1">
 <img src="images/Mark.jpg" alt="Mark" width="300">  
 
-**Mark Swanson** is a PhD student studying the evolution of rodents and their microbiomes. Mark obtained his Bachelor's degree from Illinois Wesleyan University. Mark has contributed heavily to our efforts to better understand phylogenetic relationships among all mammals and to our field program, including participation in four expeditions to Sulawesi.  
+**Mark Swanson** is a PhD student studying the evolution of rodents and their microbiomes, as it relates to dietary evolution. Mark obtained his Bachelor's degree from Illinois Wesleyan University. He has contributed heavily to our efforts to better understand phylogenetic relationships among all mammals and to our field program, including participation in four expeditions to Sulawesi.  
 </div>
 
 <div markdown="1">
 <img src="images/jon.jpg" alt="Jon" width="300">  
 
-**Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a prestigious Graduate Research Felloship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
+**Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a Graduate Research Felloship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
 </div>
 
 <div markdown="1">
@@ -30,7 +30,7 @@ I am a mammalian systematist with general interests in evolutionary biology. My 
 </div>
 
 <div markdown="1">
-<img src="images/heru.jpg" alt="Heru" width="300" style="padding-bottom:40px;">  
+<img src="images/heru.jpg" alt="Heru" width="300">  
 
-**Heru Handika** is a PhD student interested in the biogeography and systematics of Indonesian mammals. He received his Bachelors degree from Andalas University and his Masters degree from the University of Melbourne. Heru has joined countless field expeditions, including work on Sumatra, Java, Borneo, Sulawesi, and in the Philippines.  
+**Heru Handika** is a PhD student interested in the biogeography and systematics of Indonesian mammals. He received his Bachelors degree from Andalas University and his Masters degree from the University of Melbourne. Heru has joined countless field expeditions, including work on Sumatra, Java, Borneo, Sulawesi, and in the Philippines. His Masters thesis examined the systematics and biogeography of *Bunomys*, a group of mice endemic to Sulawesi.    
 </div>
