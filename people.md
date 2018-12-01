@@ -37,6 +37,6 @@ I am a mammalian systematist with general interests in evolutionary biology. My 
 <br>
 <br>
 
-<img src="images/heru.jpg" alt="Heru" width="300">  
+<img src="images/heru.jpg" alt="Heru" width="300" style="padding-bottom:40px;">  
 
 **Heru Handika** is a PhD student interested in the biogeography and systematics of Indonesian mammals. He received his Bachelors degree from Andalas University and his Masters degree from the University of Melbourne. Heru has joined countless field expeditions, including work on Sumatra, Java, Borneo, Sulawesi, and in the Philippines.  
