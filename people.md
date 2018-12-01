@@ -7,7 +7,7 @@ title: People
 <img src="images/jake.jpg" alt="jake" width="300">
 
 **PI: Jake Esselstyn**  
-I am a mammalian systematist with general interests in evolutionary biology. My research explores questions of phylogeny,  biogeography, and taxonomy, but my studnets' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections.
+I am a mammalian systematist with general interests in evolutionary biology and biogeography. My research explores questions of phylogeny, island biogeography, and taxonomy, but my studnets' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections. In recent years, we've collected mammal specimens in Indonesia, Malaysia, the Democratic Republic of the Congo, and the Southeastern U.S.
 </div>
 
 ## Grad Students:
