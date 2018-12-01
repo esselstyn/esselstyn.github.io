@@ -11,6 +11,10 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    .currentLink {
+         color: #640200;
+         background-color: #000000;
+}
 }
 div {
     padding-left: 0px;
