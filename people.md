@@ -18,7 +18,8 @@ I am a mammalian systematist with general interests in evolutionary biology. My 
 </div>
 
 <div markdown="1">
-<img src="images/jon.jpg" alt="Jon" width="300">  
+<img src="images/jon.jpg" alt="Jon" width="300">
+
 **Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a prestigious Graduate Research Felloship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
 </div>
 
