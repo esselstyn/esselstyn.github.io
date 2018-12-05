@@ -66,14 +66,14 @@ Brown, RM, CD Siler, CH Oliveros, **JA Esselstyn**, AC Diesmos, PA Hosner, CW Li
 
 **Esselstyn, JA**, Maharadatunkamsi, AS Achmadi, CD Siler, BJ Evans. 2013. [Carving out turf in a biodiversity hotspot: Multiple previously unrecognized shrew species co-occur on Java Island, Indonesia](https://dx.doi.org/10.1111/mec12450). *Molecular Ecology*. 22:4972-4987. [PDF](publications/2013/Esselstyn-2013.pdf)
 
-Oaks, JR, J Sukumaran, **JA Esselstyn**, CW Linkem, CD Siler, MT Holder, RM Brown. 2013. [Evidence for climate-driven diversification? A caution for interpreting ABC inferences of simultaneous historical events](https://dx.doi.org/10.1111/j.1558-5646.2012.01840.x). *Evolution*. 67:991-1010.
+Oaks, JR, J Sukumaran, **JA Esselstyn**, CW Linkem, CD Siler, MT Holder, RM Brown. 2013. [Evidence for climate-driven diversification? A caution for interpreting ABC inferences of simultaneous historical events](https://dx.doi.org/10.1111/j.1558-5646.2012.01840.x). *Evolution*. 67:991-1010. [PDF](publications/2013/Oaks-2013.pdf)
 
-Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J Hulselmans, V Prévot, E Verheyen, R Hutterer, JB Doty, BP Moore, YJ Nakazawa, Z Braden, D Carroll, JC Kerbis Peterhans, JM Bates, **JA Esselstyn**. 2013. [A new hero emerges: another exceptional mammalian spine and its potential adaptive significance](https://dx.doi.org/10.1098/rsbl.2013.0486). *Biology Letters*. DOI: 10.1098/rsbl.2013.0486.
+Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J Hulselmans, V Prévot, E Verheyen, R Hutterer, JB Doty, BP Moore, YJ Nakazawa, Z Braden, D Carroll, JC Kerbis Peterhans, JM Bates, **JA Esselstyn**. 2013. [A new hero emerges: another exceptional mammalian spine and its potential adaptive significance](https://dx.doi.org/10.1098/rsbl.2013.0486). *Biology Letters*. DOI: 10.1098/rsbl.2013.0486. [PDF](publications/2013/Stanley-2013.pdf)
 
 ### 2012
-**Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993.
+**Esselstyn JA**, AS Achmadi, KC Rowe. 2012. [Evolutionary novelty in a rat with no molars](https://dx.doi.org/10.1098.rsbl.2012.0574). *Biology Letters*. 8:990-993. [PDF](publications/2012/Esselstyn-2012b.pdf)
 
-**Esselstyn JA**, BJ Evans, JL Sedlock, FAA Khan, LR Heaney. 2012. [Single-locus species delimitation: A test of the mixed Yule-coalescent model, with an empirical application to Philippine round-leaf bats](https://dx.doi.org/10.1098/rspb.2012.0705). *Proceedings of the Royal Society B: Biological Sciences*. 279:3678-3686.
+**Esselstyn JA**, BJ Evans, JL Sedlock, FAA Khan, LR Heaney. 2012. [Single-locus species delimitation: A test of the mixed Yule-coalescent model, with an empirical application to Philippine round-leaf bats](https://dx.doi.org/10.1098/rspb.2012.0705). *Proceedings of the Royal Society B: Biological Sciences*. 279:3678-3686. [PDF](publications/2012/Esselstyn-2012a.pdf)
 
 ### 2011
 **Esselstyn JA**, SP Maher, RM Brown. 2011. [Species interactions during diversification and community assembly in an island radiation of shrews](https://dx.doi.org/10.1371/journal.pone.0021885). *PLoS ONE*. e21885.
