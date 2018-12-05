@@ -4,6 +4,7 @@ title: Publications
 ---
 
 # Publications  
+My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). The title links below will take you to the publication on the publisher's webpage. If you'd like to request a reprint, click on the relevant pdf link below.
 
 ### 2018  
 **Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118: 306-317. [PDF](publications/2018/Eldridge-2018.pdf)  
@@ -78,46 +79,46 @@ Stanley, WT, LW Robbins, JM Malekani, SG Mbalitini, DA Migurima, JC Mukinzi, J H
 ### 2011
 **Esselstyn JA**, SP Maher, RM Brown. 2011. [Species interactions during diversification and community assembly in an island radiation of shrews](https://dx.doi.org/10.1371/journal.pone.0021885). *PLoS ONE*. e21885.
 
-Wiles, GJ, TJ O'Shea, DJ Worthington, **JA Esselstyn**, EW Valdez. 2011. [Status and natural history of the last knwon population of *Emballonura semicaudata rotensis*](https://dx.doi.org/10.3161/150811011X624785). *Acta Chiropterologica*. 13:299-309.
+Wiles, GJ, TJ O'Shea, DJ Worthington, **JA Esselstyn**, EW Valdez. 2011. [Status and natural history of the last knwon population of *Emballonura semicaudata rotensis*](https://dx.doi.org/10.3161/150811011X624785). *Acta Chiropterologica*. 13:299-309. [PDF](publications/2011/Wiles-2011.pdf)
 
 ### 2010
-Brown, RM, CW Linkem, CD Siler, J Sukumaran, **JA Esselstyn**, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619.
+Brown, RM, CW Linkem, CD Siler, J Sukumaran, **JA Esselstyn**, AC Diesmos, D Iskandar, D Bickford, BJ Evans, JA McGuire, J supriatna, N Andayani. 2010. [Phylogeography and historical demography of *Polypedates leucomystax* in the islands of Indonesia and the Philippines: evidence for recent human-mediated range expansion?](https://dx.doi.org/10.1016/j.ympev.2010.06.015). *Molecular Phylogenetics and Evolution*. 57:598-619. [PDF](publications/2010/Brown-2010.pdf)
 
 **Esselstyn, JA**. 2010. At long last, an authoritative guide to the mammals of Indochina. *Journal of Mammalian Evolution*. 17:215-216.
 
-**Esselstyn, JA**, SM Goodman. 2010. [New species of shrew (Soricidae: *Crocidura*) from Sibuyan Island, Philippines](https://dx.doi.org/10.1644/10-MAMM-A-002.1). *Journal of Mammalogy*. 91:1467-1472.
+**Esselstyn, JA**, SM Goodman. 2010. [New species of shrew (Soricidae: *Crocidura*) from Sibuyan Island, Philippines](https://dx.doi.org/10.1644/10-MAMM-A-002.1). *Journal of Mammalogy*. 91:1467-1472. [PDF](publications/2010/Esselstyn-2010b.pdf)
 
-**Esselstyn JA**, CH Oliveros. 2010. [Colonization of the Philippines from Taiwan: a multi-locus test of the biogeographic and phylogenetic relationships of isolated populations of shrews](https://dx.doi.org/10.1111/j.1365-2699.2010.02295.x). *Journal of Biogeography*. 37:1504-1514.
+**Esselstyn JA**, CH Oliveros. 2010. [Colonization of the Philippines from Taiwan: a multi-locus test of the biogeographic and phylogenetic relationships of isolated populations of shrews](https://dx.doi.org/10.1111/j.1365-2699.2010.02295.x). *Journal of Biogeography*. 37:1504-1514. [PDF](publications/2010/Esselstyn-2010a.pdf)
 
-**Esselstyn JA**, CH Oliveros, RG Moyle, AT Peterson, JA McGuire, RM Brown. 2010. [Integrating phylogenetic and taxonomic evidence illuminates complex biogeographic patterns along Huxley's modification of Wallace's Line](https://dx.doi.org/10.1111/j.1365-2699.2010.02378.x). *Journal of Biogeography*. 37:2054-2066.
+**Esselstyn JA**, CH Oliveros, RG Moyle, AT Peterson, JA McGuire, RM Brown. 2010. [Integrating phylogenetic and taxonomic evidence illuminates complex biogeographic patterns along Huxley's modification of Wallace's Line](https://dx.doi.org/10.1111/j.1365-2699.2010.02378.x). *Journal of Biogeography*. 37:2054-2066. [PDF](publications/2010/Esselstyn-2010c.pdf)
 
 Heaney, LR, ML Dollar, DS Balete, **JA Esselstyn**, EA Rickart, JL Sedlock. 2010. [Synopsis of Philippine mammals](http://www.fieldmuseum.org/philippine_mammals/).
 
-Patou, ML, A Wilting, P Gaubert, **JA Esselstyn** C Cruad, AP Jennings, J Fickel, G Veron. 2010. [Evolutionary history of the *Paradoxurus* palm civets -- a new model for Asian biogeography](https://dx.doi.org/10.1111/j.1365-2699.2010.02364.x). *Journal of Biogeography*. 37:2077-2097.
+Patou, ML, A Wilting, P Gaubert, **JA Esselstyn** C Cruad, AP Jennings, J Fickel, G Veron. 2010. [Evolutionary history of the *Paradoxurus* palm civets -- a new model for Asian biogeography](https://dx.doi.org/10.1111/j.1365-2699.2010.02364.x). *Journal of Biogeography*. 37:2077-2097. [PDF](publications/2010/Patou-2010.pdf)
 
-Siler, CD, JR Oaks, **JA Esselstyn**, AC Diesmos, RM Brown. 2010. [Phylogeny and biogeography of Philippine bent-toed geckos (Gekkonidae: *Cyrtodactylus*) contradict a prevailing model of Pleistocene diversification](https://dx.doi.org/10.1016/j.ympev.2010.01.027). *Molecular Phylogenetics and Evolution*. 55:699-710.
+Siler, CD, JR Oaks, **JA Esselstyn**, AC Diesmos, RM Brown. 2010. [Phylogeny and biogeography of Philippine bent-toed geckos (Gekkonidae: *Cyrtodactylus*) contradict a prevailing model of Pleistocene diversification](https://dx.doi.org/10.1016/j.ympev.2010.01.027). *Molecular Phylogenetics and Evolution*. 55:699-710. [PDF](publications/2010/Siler-2010.pdf)
 
-Stanley, WT, **JA Esselstyn**. 2010. [Biogeography and diversity among montane populations of mouse shrew (Soricidae: *Myosorex*) in Tanzania](https://dx.doi.org/10.1111/j.1095-8312.2010.01448.x). *Biological Journal of the Linnean Society*. 100:669-680.
+Stanley, WT, **JA Esselstyn**. 2010. [Biogeography and diversity among montane populations of mouse shrew (Soricidae: *Myosorex*) in Tanzania](https://dx.doi.org/10.1111/j.1095-8312.2010.01448.x). *Biological Journal of the Linnean Society*. 100:669-680. [PDF](publications/2010/Stanley-2010.pdf)
 
 ### 2009
-**Esselstyn, JA**, RM Brown. 2009. [The role of repeated sea-level fluctuations in the generation of shrew (Soricidae: *Crocidura*) diversity in the Philippine Archipelago](https://dx.doi.org/10.1016/j.ympev.2009.05.034). *Molecular Phylogenetics and Evolution*. 53:171-181.
+**Esselstyn, JA**, RM Brown. 2009. [The role of repeated sea-level fluctuations in the generation of shrew (Soricidae: *Crocidura*) diversity in the Philippine Archipelago](https://dx.doi.org/10.1016/j.ympev.2009.05.034). *Molecular Phylogenetics and Evolution*. 53:171-181. [PDF](publications/2009/Esselstyn-2009b.pdf)
 
-**Esselstyn, JA**, RM Timm, RM Brown. 2009. [Do geological or climatic processes drive speciation in dynamic archipelagos? The tempo and mode of diversification in Southeast Asian shrews](https://dx.doi.org/10.1111/j.1558-5646.2009.00743.x). *Evolution*. 63:2595-2610.
+**Esselstyn, JA**, RM Timm, RM Brown. 2009. [Do geological or climatic processes drive speciation in dynamic archipelagos? The tempo and mode of diversification in Southeast Asian shrews](https://dx.doi.org/10.1111/j.1558-5646.2009.00743.x). *Evolution*. 63:2595-2610. [PDF](publications/2009/Esselstyn-2009a.pdf)
 
 ### 2008
-Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population trends of the forest bird community on the Pacific island of Rota, Mariana Islands](https://dx.doi.org/10.1525/cond.2008.8560). *Condor*. 110:421-427.
+Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population trends of the forest bird community on the Pacific island of Rota, Mariana Islands](https://dx.doi.org/10.1525/cond.2008.8560). *Condor*. 110:421-427. [PDF](publications/2008/Amar-2008.pdf)
 
-**Esselstyn, JA**, HJD Garcia, MG Saulog, LR Heaney. 2008. [A new species of *Desmalopex* (Pteropodidae) from the Philippines, with a phylogenetic analysis of the Pteropodini](https://dx.doi.org/10.1644/07-MAMM-A-285.1). *Journal of Mammalogy*. 89:815-825.
+**Esselstyn, JA**, HJD Garcia, MG Saulog, LR Heaney. 2008. [A new species of *Desmalopex* (Pteropodidae) from the Philippines, with a phylogenetic analysis of the Pteropodini](https://dx.doi.org/10.1644/07-MAMM-A-285.1). *Journal of Mammalogy*. 89:815-825. [PDF](publications/2008/Esselstyn-2008.pdf)
 
 ### 2007 and earlier
-**Esselstyn, JA**. 2007. [A new species of stripe-faced fruit bat (Chiroptera: Pteropodidae: *Styloctenium*) from the Philippines](https://dx.doi.org/10.1644/06-MAMM-A-294R.1). *Journal of Mammalogy*. 88:951-958.
+**Esselstyn, JA**. 2007. [A new species of stripe-faced fruit bat (Chiroptera: Pteropodidae: *Styloctenium*) from the Philippines](https://dx.doi.org/10.1644/06-MAMM-A-294R.1). *Journal of Mammalogy*. 88:951-958. [PDF](publications/2007/Esselstyn-2007a.pdf)
 
-**Esselstyn, JA**. 2007. [Should universal guidelines be applied to taxonomic research?](https://dx.doi.org/10.1111/j.1095-8312.2007.00776.x). *Biological Journal of the Linnean Society*. 90:761-764.
+**Esselstyn, JA**. 2007. [Should universal guidelines be applied to taxonomic research?](https://dx.doi.org/10.1111/j.1095-8312.2007.00776.x). *Biological Journal of the Linnean Society*. 90:761-764. [PDF](publications/2007/Esselstyn-2007b.pdf)
 
-**Esselstyn, JA**, A Amar, D Janeke. 2006. [Impact of post-typhoon hunting on Mariana fruit bats (*Pteropus mariannus*)](https://dx.doi.org/10.1353/psc.2006.0027). *Pacific Science*. 60:531-539.
+**Esselstyn, JA**, A Amar, D Janeke. 2006. [Impact of post-typhoon hunting on Mariana fruit bats (*Pteropus mariannus*)](https://dx.doi.org/10.1353/psc.2006.0027). *Pacific Science*. 60:531-539. [PDF](publications/2007/Esselstyn-2006.pdf)
 
-**Esselstyn, JA**, P Widmann, LR Heaney. 2004. The mammals of Palawan Island, Philippines. *Proceedings of the Biological Society of Washington*. 117:271-302.
+**Esselstyn, JA**, P Widmann, LR Heaney. 2004. The mammals of Palawan Island, Philippines. *Proceedings of the Biological Society of Washington*. 117:271-302. [PDF](publications/2007/Esselstyn-2004a.pdf)
 
-**Esselstyn, JA**, GJ Wiles, A Amar. 2004. [Habitat use of the Pacific sheath-tailed bat (*Emballonura semicaudata*) on Aguiguan, Mariana Islands](https://dx.doi.org/10.3161/001.006.0208). *Acta Chiropterological*. 6:303-308.
+**Esselstyn, JA**, GJ Wiles, A Amar. 2004. [Habitat use of the Pacific sheath-tailed bat (*Emballonura semicaudata*) on Aguiguan, Mariana Islands](https://dx.doi.org/10.3161/001.006.0208). *Acta Chiropterological*. 6:303-308. [PDF](publications/2007/Esselstyn-2004b.pdf)
 
-**Esselstyn, JA**, RC Wildman. 1997. [Observations of *Juga* in the diet of larval Pacific giant salamanders (*Dicamptodon tenebrosus*)](https://dx.doi.org/10.2307/3536849). *Northwestern Naturalist*. 78:70-73.
+**Esselstyn, JA**, RC Wildman. 1997. [Observations of *Juga* in the diet of larval Pacific giant salamanders (*Dicamptodon tenebrosus*)](https://dx.doi.org/10.2307/3536849). *Northwestern Naturalist*. 78:70-73. [PDF](publications/2007/Esselstyn-1997.pdf)
