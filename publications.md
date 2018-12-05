@@ -45,7 +45,7 @@ Achmadi, AS, KC Rowe, **JA Esselstyn**. 2014. New records of two rarely encounte
 
 Amar, A, **JA Esselstyn**. 2014. [Positive association between rat abundance and breeding success of the critically endangered Mariana crow *Corvus kubaryi*](https://dx.doi.org/10.1017/S095927091300018X). *Bird Conservation International*. 24:192-200.
 
-Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Neri-Arboleda, **JA Esselstyn**, NJ Dominy, PS Ong, GL Moritz, A Luczon, MLL Diesmos, AC Diesmos, CD Siler. 2014. [Conservation genetics of the Philippine tarsier: Cryptic genetic variation restructures conservation priorities for an island archipelago primate](https://dx.doi.org/10.1371/journal.pone.0104340). *PLoS ONE*. DOI: 101371/journal.pone.0104340.
+Brown, RM, JA Weghorst, KV Olson, MRM Duya, AJ Barley, MV Duya, M Shekelle, I Neri-Arboleda, **JA Esselstyn**, NJ Dominy, PS Ong, GL Moritz, A Luczon, MLL Diesmos, AC Diesmos, CD Siler. 2014. [Conservation genetics of the Philippine tarsier: Cryptic genetic variation restructures conservation priorities for an island archipelago primate](https://dx.doi.org/10.1371/journal.pone.0104340). *PLoS ONE*. DOI: 101371/journal.pone.0104340.  
 
 **Esselstyn, JA**, AS Achmadi, Maharadatunkamsi. 2014. [A new species of shrew (Soricomorpha: *Crocidura*) from West Java, Indonesia](https://dx.doi.org/10.1644/13-MAMM-A-215). *Journal of Mammalogy*. 95:216-224.
 
