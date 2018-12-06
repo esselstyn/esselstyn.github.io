@@ -33,7 +33,7 @@ Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [Repeated evolution of carnivory a
 Rowe, KC, AS Achmadi, **JA Esselstyn**. 2016. [A new genus and species of omnivorous rodent (Muridae: Murinae) from Sulawesi, nested within a clade of endemic carnivores](https://dx.doi.org/10.1093/jmammal/gyw029). *Journal of Mammalogy*. 97:978–991. [PDF](publications/2016/Rowe-2016b.pdf)
 
 ### 2015
-**Esselstyn, JA**, AS Achmadi, H Handika, KC Rowe. 2015. [A hog-nosed shrew rat (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.1093/jmammal/gyv093). *Journal of Mammalogy*. 96:895–907.[PDF](publications/2015/Esselstyn-2015.pdf)
+**Esselstyn, JA**, AS Achmadi, H Handika, KC Rowe. 2015. [A hog-nosed shrew rat (Rodentia: Muridae) from Sulawesi Island, Indonesia](https://dx.doi.org/10.1093/jmammal/gyv093). *Journal of Mammalogy*. 96:895–907. [PDF](publications/2015/Esselstyn-2015.pdf)
 
 **Giarla, TC**,  **JA Esselstyn**. 2015. [The challenges of resolving a rapid, recent radiation: Empirical and simulated phylogenomics of Philippine shrews](https://dx.doi.org/10.1093/sysbio/syv029). *Systematic Biology*. 64:727–740. [PDF](publications/2015/Giarla-2015.pdf)
 
