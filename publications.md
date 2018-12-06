@@ -11,7 +11,7 @@ My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p
 
 Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. [Isolation by marine barriers and climate explain areas of endemism in an island rodent](https://dx.doi.org/10.1111/jbi.13392). _Journal of Biogeography_. 45:2053-2066. [PDF](publications/2018/Giarla-2018.pdf)
 
-Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA Esselstyn**. 2018. [A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines](https://dx.doi.org/10.1093/jmammal/gyy041). _Journal of Mammalogy_. 99:518-536. [PDF] (publications/2018/Hutterer-2018.pdf)
+Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA Esselstyn**. 2018. [A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines](https://dx.doi.org/10.1093/jmammal/gyy041). _Journal of Mammalogy_. 99:518-536. [PDF](publications/2018/Hutterer-2018.pdf)
 
 Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Miguez, KC Rowe, P-H Fabre. 2018. [Convergent evolution of an extreme dietary specialization, the olfactory system of worm-eating rodents](https://dx.doi.org/10.1038/s41598-018-35827). *Scientific Reports*. DOI: 10.1038/s41598-018-35827-0.
 
