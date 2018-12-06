@@ -8,6 +8,7 @@ nav ul {
     list-style: none;
     font-weight: bold;
 }
+/* 
 nav ul li {
     display: inline;
     margin-right: 20px;
@@ -19,6 +20,35 @@ div {
     padding-bottom: 30px;
     overflow: auto;
 }
+ */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: indigo;
+  color: gold;
+}
+
+li a:hover:not(.active) {
+  background-color: gold;
+  color: indigo;
+}
+
 img {
     float: left;
     padding-right: 25px;
