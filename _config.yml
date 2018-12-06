@@ -1,3 +1,4 @@
-theme: jekyll-theme-midnight
-title: [Mammal lab at LSU]
-description: []
+theme: jekyll-theme-cayman
+title: Mammal lab at LSU
+description: lab website
+markdown: kramdown

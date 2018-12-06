@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content=“Esselstyn Lab Website">
+    <meta name="keywords" content=“mammals,rats,shrews,biogeography,phylogenetics,Southeast Asia">
+    <meta name="author" content=“Jacob Esselstyn”>
+    <title>{{ page.title }}</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+		<style>
+            a.class1:link, a.class1:visited {
+                background-color: indigo;
+                color: gold;
+                padding: 14px 25px;
+                text-align: center;
+                text-decoration: none;
+		        font-size: 1.2em;
+                display: inline-block;
+                }
+            a.class1:hover, a:class1:active {
+                background-color: gold;
+		        color: indigo;
+                }
+	        a.class2 {color:blue}
+		        a.class2:link {text-decoration: none; color: blue;}
+                a.class2:visited {text-decoration: none; color: blue;}
+                a.class2:hover {text-decoration: underline; color: blue;}
+                a.class2:active {text-decoration: none; color: blue;
+                }
+        </style>
+  
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+    <footer>
+	  <ul>
+	      <a href="https://www.lsu.edu/mns/" target="_blank">
+	      <img src="LSU-MNS.png" alt="LSU Museum of Natural Science Logo" width="321" height="61">
+	      </a>
+	  </ul>
+    </footer>
+
+  </body>
+</html>
