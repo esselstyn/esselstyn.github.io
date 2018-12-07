@@ -6,7 +6,7 @@ title: Projects
 # Projects
 
 <div markdown="1">
-<img src="images/Shrew.gif" alt="shrews eating Philippines" width="300">
+<img src="images/Shrew.gif" alt="shrews eating Philippines" float="right" width="300">
 
 **Systematics and diversification of Old World shrews**  
 We are investigating the species-level diversity, phylogenetic relationships, and history of diversification of shrews from Asia and Africa. This work has been funded by the U.S. National Science Foundation through their Office of International Science and Engineering [OISE-0965856](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0965856) and their systematics programs [DEB-1343517](http://nsf.gov/awardsearch/showAward?AWD_ID=1343517). Old world shrews are a diverse (~240 species) group of small mammals with a highly conserved morphology.  Their limited variation in morphology has made traditional approaches to taxonomy especially challenging and most molecular studies of this group find problems with morphologically defined species. We are therefore attempting to improve upon the current taxonomic resolution by emphasizing multilocus coalescent methods of delimiting species and estimating relationships.  Our work on this project involves field-based inventories of shrews, and assessments of morphological and genetic variation. Recent publications include resolution of issues among the shrews of Java, the Philippines, and Tanzania. At left is an illustration of shrews eating an edible Philippine Archipelago, drawn by Subir Shakya. 
