@@ -12,8 +12,12 @@ title: Projects
 We are investigating the species-level diversity, phylogenetic relationships, and history of diversification of shrews from Asia and Africa. This work has been funded by the U.S. National Science Foundation through their Office of International Science and Engineering [OISE-0965856](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0965856) and their systematics programs [DEB-1343517](http://nsf.gov/awardsearch/showAward?AWD_ID=1343517). Old world shrews are a diverse (~240 species) group of small mammals with a highly conserved morphology.  Their limited variation in morphology has made traditional approaches to taxonomy especially challenging and most molecular studies of this group find problems with morphologically defined species. We are therefore attempting to improve upon the current taxonomic resolution by emphasizing multilocus coalescent methods of delimiting species and estimating relationships.  Our work on this project involves field-based inventories of shrews, and assessments of morphological and genetic variation. Recent publications include resolution of issues among the shrews of Java, the Philippines, and Tanzania. At right is an illustration of shrews consuming an edible representation of the Philippine Archipelago, drawn by Subir Shakya. 
 </div>
 
+<div markdown="1">
+<img src="images/circle-tree.png" class="left" alt="phylogeny" width="300">
+
 **Rates of evolution in rats and mice**  
 Adaptive radiation is a complex process of diversification that often occurs after a colonist arrives in a new biogeographic area. Diversification happens on multiple axes (species, genes, phenotypes) and we are investigating how the rates of diversification in genes, morphology, and species have varied over the evolutionary history of Murinae, a diverse clade with over 600 species that has colonized many islands in the Indo-Australian region. This project integrates comparative genomics with quantitative morphology in a phylogenetic framework. We anticipate that our results will illuminate the dynamics of diversification in lineages, phenotypes, and genes across this most species-rich adaptive radiation in mammals. Our work in this area is supported by a grant from the National Science Foundation, [DEB-1754393](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1754393&HistoricalAwards=false).
+</div>
 
 <div markdown="1">
 <img src="images/KCRowe-Pvermidax01.jpg" class="left" alt="Pvermidax" width="300">
