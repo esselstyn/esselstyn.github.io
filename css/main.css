@@ -21,11 +21,18 @@ div {
     overflow: auto;
 }
 
-img {
+img.left {
     float: left;
     padding-right: 25px;
     overflow: auto;
 }
+
+.right {
+	float: right;
+	padding-left: 25px;
+	overflow: auto;
+	}
+
 a {
     text-decoration: none;
     color: #0000ff;
