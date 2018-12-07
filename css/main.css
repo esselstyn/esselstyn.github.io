@@ -49,6 +49,7 @@ p {
     font-size: 1.1em;
     line-height: 1.4em;
     color: #333;
+    text-align: justify;
 }
 footer {
     border-top: 2px solid #d5d5d5;
