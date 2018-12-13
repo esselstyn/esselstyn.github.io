@@ -7,13 +7,13 @@ title: Publications
 Publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
 ### 2018  
-**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118: 306-317. [PDF](publications/2018/Eldridge-2018.pdf)
+**Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118:306-317. [PDF](publications/2018/Eldridge-2018.pdf)
 
 Giarla, TC, SP Maher, AS Achmadi, **MK Moore**, **MT Swanson**, KC Rowe, **JA Esselstyn**. 2018. [Isolation by marine barriers and climate explain areas of endemism in an island rodent](https://dx.doi.org/10.1111/jbi.13392). _Journal of Biogeography_. 45:2053-2066. [PDF](publications/2018/Giarla-2018.pdf)
 
 Hutterer, R, DS Balete, TC Giarla, LR Heaney, **JA Esselstyn**. 2018. [A new genus and species of shrew (Mammalia: Soricidae) from Palawan Island, Philippines](https://dx.doi.org/10.1093/jmammal/gyy041). _Journal of Mammalogy_. 99:518-536. [PDF](publications/2018/Hutterer-2018.pdf)
 
-Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Miguez, KC Rowe, P-H Fabre. 2018. [Convergent evolution of an extreme dietary specialization, the olfactory system of worm-eating rodents](https://dx.doi.org/10.1038/s41598-018-35827). *Scientific Reports*. DOI: 10.1038/s41598-018-35827-0.
+Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Miguez, KC Rowe, P-H Fabre. 2018. [Convergent evolution of an extreme dietary specialization, the olfactory system of worm-eating rodents](https://dx.doi.org/10.1038/s41598-018-35827-0). *Scientific Reports*. 8:17806.
 
 ### 2017
 **Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https://dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321.
