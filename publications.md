@@ -119,6 +119,6 @@ Amar, A, F Amidon, B Arroyo, **JA Esselstyn**, AP Marshall. 2008. [Population tr
 
 **Esselstyn, JA**, P Widmann, LR Heaney. 2004. The mammals of Palawan Island, Philippines. *Proceedings of the Biological Society of Washington*. 117:271-302. [PDF](publications/2007/Esselstyn-2004a.pdf)
 
-**Esselstyn, JA**, GJ Wiles, A Amar. 2004. [Habitat use of the Pacific sheath-tailed bat (*Emballonura semicaudata*) on Aguiguan, Mariana Islands](https://dx.doi.org/10.3161/001.006.0208). *Acta Chiropterological*. 6:303-308. [PDF](publications/2007/Esselstyn-2004b.pdf)
+**Esselstyn, JA**, GJ Wiles, A Amar. 2004. [Habitat use of the Pacific sheath-tailed bat (*Emballonura semicaudata*) on Aguiguan, Mariana Islands](https://dx.doi.org/10.3161/001.006.0208). *Acta Chiropterologica*. 6:303-308. [PDF](publications/2007/Esselstyn-2004b.pdf)
 
 **Esselstyn, JA**, RC Wildman. 1997. [Observations of *Juga* in the diet of larval Pacific giant salamanders (*Dicamptodon tenebrosus*)](https://dx.doi.org/10.2307/3536849). *Northwestern Naturalist*. 78:70-73. [PDF](publications/2007/Esselstyn-1997.pdf)
