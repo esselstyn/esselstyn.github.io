@@ -24,7 +24,7 @@ Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Mig
 ### 2016
 Cook, JA, SE Greiman, SJ Agosta, RP Anderson, BS Arbogast, RJ Baker, W Boeker, RD Bradley, DR Brooks, R Cole, JR Demboski, AP Dobson, JL Dunnum, RP Eckerlin, **J Esselstyn**, KE Galbreath, J Hawdon, HE Hoekstra, SJ Kutz, JE Light, LE Olson, BD Patterson, JL Patton, AJ Phillips, E Rickart, DS Rogers, ME Siddall, VV Tkach, EP Hoberg. 2016. [Transformational principles for NEON sampling of mammalian parasites and pathogens: A response to Springer and colleagues](https://dx.doi.org/10.1093/biosci/biw123). *BioScience*. 66:917–919. [PDF](publications/2016/Cook-2016.pdf)
 
-**Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. [Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity](https://dx.doi.org/10.1111/mec.13820). *Molecular Ecology*. 25:5158–5173. [PDF](publications/2016/Demos-2017.pdf)
+**Demos, TC**, AS Achmadi, TC Giarla, H Handika, Maharadatunkamsi, KC Rowe, **JA Esselstyn**. 2016. [Local endemism and within-island diversification of shrews illustrate the importance of speciation in building Sundaland mammal diversity](https://dx.doi.org/10.1111/mec.13820). *Molecular Ecology*. 25:5158–5173. [PDF](publications/2016/Demos-2016.pdf)
 
 **Esselstyn, JA**. 2016. Speciation in shrews (*Crocidura*) in the Philippine Archipelago. Pp. 64–65 in Heaney, LR, DS Balete,  EA Rickart, *The Mammals of Luzon Island: Biogeography and Natural History of a Philippine Fauna*. Johns Hopkins University Press, Baltimore.
 
