@@ -6,6 +6,9 @@ title: Publications
 # Publications  
 Publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
+### 2019  
+Upham, NS, **JA Esselstyn**, W Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life](https://doi.org/10.1101/504803). _bioRxiv_. 504803.
+
 ### 2018  
 **Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118:306-317. [PDF](publications/2018/Eldridge-2018.pdf)
 
