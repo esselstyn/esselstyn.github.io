@@ -23,7 +23,7 @@ Martinez, Q, R Lebrun, AS Achmadi, **JA Esselstyn**, AR Evans, LR Heaney, RP Mig
 ### 2017
 **Esselstyn, JA**, CH Oliveros, **MT Swanson**, BC Faircloth. 2017. [Investigating difficult nodes in the placental mammal tree with expanded taxon sampling and thousands of ultraconserved elements](https://dx.doi.org/10.1093/gbe/evx168). *Genome Biology and Evolution*. 9:2308–2321.
 
-**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: *Crocidura*) from Java, Indonesia: possible character displacment despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. [PDF](publications/2017/Demos-2017.pdf)
+**Demos, TC**, AS Achmadi, H Handika, KC Rowe, **JA Esselstyn**. 2017. [A new species of shrew (Soricomorpha: *Crocidura*) from Java, Indonesia: possible character displacement despite intraspecific gene flow](https://dx.doi.org/10.1093/jmammal/gyw183). *Journal of Mammalogy*. 98:183–193. [PDF](publications/2017/Demos-2017.pdf)
 
 
 ### 2016
