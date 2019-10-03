@@ -11,6 +11,8 @@ Publications are listed below, by year. The linked titles will take you to the p
 
 Rickart, EA, DS Balete, RM Timm, PA Alviola, **JA Esselstyn**, LR Heaney. 2019. [Two new species of shrew-rats (_Rhynchomys_: Muridae: Rodentia) from Luzon Island, Philippines](https://doi.org/10.1093/jmammal/gyz066). _Journal of Mammalogy_. doi: 10.1093/jmammal/gyz066.
 
+Rowe, KC, AS Achmadi, P-H Fabre, JJ Schenk, SJ Steppan, **JA Esselstyn**. 2019. [Oceanic islands of Wallacea as a source for dispersal and diversification of murine rodents](https://doi.org/10.1111/jbi.13720) doi: 10.1111/jbi.13720.
+
 **Swanson, MT**, CH Oliveros, **JA Esselstyn**. 2019. [A phylogenomic rodent tree reveals the repeated evolution of masseter architectures](https://doi.org/10.1098/rspb.2019.0672). _Proceedings of the Royal Society B, Biological Sciences_. 286. doi: 10.1098/rspb.2019.0672.
   
 Upham, NS, **JA Esselstyn**, W Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life](https://doi.org/10.1101/504803). _bioRxiv_. 504803.
