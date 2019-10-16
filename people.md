@@ -10,6 +10,19 @@ title: People
 I am a mammalian systematist with general interests in evolutionary biology and biogeography. My research explores questions of phylogeny, island biogeography, and taxonomy, but my students' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections. In recent years, we've collected mammal specimens in Indonesia, Malaysia, the Democratic Republic of the Congo, and the Southeastern U.S.
 </div>
 
+##Post docs:
+<div markdown="1">
+<img src="images/Giovani.jpg" class="left" alt="Giovani" width="300">
+
+**Giovani Hernández Canchola** is a post doctoral fellow working in the lab. He is investigating the evolutionary history and biogeography of neotropical rodents. Giovani received his PhD from the Universidad Nacional Autónoma de México in 2018. He is supported by a fellowship from the CONACyT. His Google Scholar profile is available [here](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works).
+</div>
+
+<div markdown="1">
+<img src="" class="left" alt="Carl" width="300">
+
+**Carl Hutter** is a post doctoral scholar researching molecular evolution in rodents, as part of our project investigating rates of evolution in molecules, phenotypes, and lineages in the the adaptive radiation of Murinae. Carl received his PhD from the University of Kansas in 2019. His research interests include amphibian systematics and trait evolution, as it relates to environmental circumstances. Carl's Google Scholar profile is [here](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao).
+</div>
+
 ## Grad Students:
 <div markdown="1">
 <img src="images/Mark.jpg" class="left" alt="Mark" width="300">  
