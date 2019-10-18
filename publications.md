@@ -13,6 +13,8 @@ Rickart, EA, DS Balete, RM Timm, PA Alviola, **JA Esselstyn**, LR Heaney. 2019. 
 
 Rowe, KC, AS Achmadi, P-H Fabre, JJ Schenk, SJ Steppan, **JA Esselstyn**. 2019. [Oceanic islands of Wallacea as a source for dispersal and diversification of murine rodents](https://doi.org/10.1111/jbi.13720) doi: 10.1111/jbi.13720.
 
+Roycroft, EJ, **JA Nations**, KC Rowe. 2019. [Environment predicts repeated body size shifts in a recent radiation of Australian mammals](https://doi.org/10.1111/evo.13859). _Evolution_. doi: 10.1111/evo.13859.
+
 **Swanson, MT**, CH Oliveros, **JA Esselstyn**. 2019. [A phylogenomic rodent tree reveals the repeated evolution of masseter architectures](https://doi.org/10.1098/rspb.2019.0672). _Proceedings of the Royal Society B, Biological Sciences_. 286. doi: 10.1098/rspb.2019.0672.
   
 Upham, NS, **JA Esselstyn**, W Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life](https://doi.org/10.1101/504803). _bioRxiv_. 504803.
