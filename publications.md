@@ -19,6 +19,9 @@ Roycroft, EJ, **JA Nations**, KC Rowe. 2019. [Environment predicts repeated body
   
 Upham, NS, **JA Esselstyn**, W Jetz. 2019. [Ecological causes of uneven diversification and richness in the mammal tree of life](https://doi.org/10.1101/504803). _bioRxiv_. 504803.
 
+Upham, NS, **JA Esselstyn**, W Jetz. 2019. [Inferring the mammal tree: Species level sets of phylogenies for questions in ecology, evolution, and conservation](https://doi.org/10.1371/journal.pbio.3000494). _PLoS Biology_. 17(12):  e3000494.
+
+
 ### 2018  
 **Eldridge, RA**, AS Achmadi, TC Giarla, KC Rowe, **JA Esselstyn**. 2018. [Geographic isolation and elevational gradients promote diversification in an endemic shrew on Sulawesi](https://dx.doi.org/10.1016/j.ympev.2017.09.018). _Molecular Phylogenetics and Evolution_. 118:306-317. [PDF](publications/2018/Eldridge-2018.pdf)
 
