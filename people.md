@@ -18,7 +18,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 </div>
 
 <div markdown="1">
-<img src="" class="left" alt="Carl" width="300">
+<img src="images/carl.JPG" class="left" alt="Carl" width="300">
 
 **Carl Hutter** is a post doctoral scholar researching molecular evolution in rodents, as part of our project investigating rates of evolution in molecules, phenotypes, and lineages in the the adaptive radiation of Murinae. Carl received his PhD from the University of Kansas in 2019. His research interests include amphibian systematics and trait evolution, as it relates to environmental circumstances. Carl's Google Scholar profile is [here](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao).
 </div>
