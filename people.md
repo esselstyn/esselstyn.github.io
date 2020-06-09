@@ -14,7 +14,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 <div markdown="1">
 <img src="images/janet.jpg" class="left" alt="Janet" width="300">
 
-**Janet Buckner** is a post doctoral scholar with research interests spanning macroevolution, biogeography, and molucular evolution in birds and mammals. Janet received her PhD from UCLA and joined us at LSU in early 2020. For more about Janet, see her webpage [here](https://black2nature.weebly.com/). Her Google Scholar profile is [here](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao).
+**Janet Buckner** is a post doctoral scholar with research interests spanning macroevolution, biogeography, and molecular evolution in birds and mammals. Janet received her PhD from UCLA and joined us at LSU in early 2020. For more about Janet, see her webpage [here](https://black2nature.weebly.com/). Her Google Scholar profile is [here](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao).
 </div>
 
 <div markdown="1">
