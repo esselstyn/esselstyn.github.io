@@ -15,7 +15,9 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 <img src="images/janet.jpg" class="left" alt="Janet" width="300">
 
 **Janet Buckner** is a post doctoral scholar with research interests spanning macroevolution, biogeography, and molucular evolution in birds and mammals. Janet received her PhD from UCLA and joined us at LSU in early 2020. For more about Janet, see her webpage [here](https://black2nature.weebly.com/). Her Google Scholar profile is [here](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao).
+</div>
 
+<div markdown="1>"
 <img src="images/giovani.jpg" class="left" alt="Giovani" width="300">
 
 **Giovani Hernández Canchola** is a post doctoral fellow working in the lab. He is investigating the evolutionary history and biogeography of neotropical rodents. Giovani received his PhD from the Universidad Nacional Autónoma de México in 2018. He is supported by a fellowship from the CONACyT. His Google Scholar profile is available [here](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works).
