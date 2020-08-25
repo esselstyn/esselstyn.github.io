@@ -53,3 +53,9 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 **Heru Handika** is a PhD student interested in the biogeography and systematics of Southeast Asian mammals. He received his Bachelors degree from Andalas University and his Masters degree from the University of Melbourne. Heru has joined countless field expeditions, including work on Sumatra, Java, Borneo, Sulawesi, and in the Philippines. His Masters thesis examined the systematics and biogeography of *Bunomys*, a group of mice endemic to Sulawesi.    
 </div>
+
+<div markdown="1">
+<img src="images/austin.jpg" class="left" alt="Austin" width="300">  
+
+**Austin Chipps** is a PhD student interested in population genetics and molecular evolution. He received his Bachelors degree from Central College and his Masters degree from Texas Christian University.  His Masters thesis examined the population genetics of bats in south Texas.     
+</div>
