@@ -7,7 +7,11 @@ title: Publications
 Publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
 ### 2020
+**Babb-Biernacki, SJ, JA Essesltyn**, VP Doyle. 2020. [Rethinking host range in _Pneumocystis_](https://doi.org/10.1371/journal.ppat.1008824). _PLoS Pathogens_. 16(9): e1008824.
+
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
+
+**Nations, JA**, A Mursyid RD Busta, SP Adrian, **H Handika**, Apandi, AS achmadi, **JA Esselstyn**. 2020. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. 000010151520200047.
 
 ### 2019
 **Esselstyn, JA**, AS Achmadi, **H Handika**, TC Giarla, KC Rowe. 2019. [A new climbing shrew from Sulawesi highlights the tangled taxonomy of an endemic radiation](https://doi.org/10.1093/jmammal/gyz077). _Journal of Mammalogy_. 100:1713-1725. doi: 10.1093/jmammal/gyz077. [PDF](publications/2019/Esselstyn-2019.pdf)
