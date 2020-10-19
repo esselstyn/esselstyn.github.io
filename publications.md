@@ -11,7 +11,7 @@ Publications are listed below, by year. The linked titles will take you to the p
 
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
 
-**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2020. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. 000010151520200047.
+**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2020. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
 
 ### 2019
 **Esselstyn, JA**, AS Achmadi, **H Handika**, TC Giarla, KC Rowe. 2019. [A new climbing shrew from Sulawesi highlights the tangled taxonomy of an endemic radiation](https://doi.org/10.1093/jmammal/gyz077). _Journal of Mammalogy_. 100:1713-1725. doi: 10.1093/jmammal/gyz077. [PDF](publications/2019/Esselstyn-2019.pdf)
@@ -20,7 +20,7 @@ Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre
 
 Rickart, EA, DS Balete, RM Timm, PA Alviola, **JA Esselstyn**, LR Heaney. 2019. [Two new species of shrew-rats (_Rhynchomys_: Muridae: Rodentia) from Luzon Island, Philippines](https://doi.org/10.1093/jmammal/gyz066). _Journal of Mammalogy_. 100:1112-1129. doi: 10.1093/jmammal/gyz066. [PDF](publications/2019/Rickart-2019.pdf)
 
-Rowe, KC, AS Achmadi, P-H Fabre, JJ Schenk, SJ Steppan, **JA Esselstyn**. 2019. [Oceanic islands of Wallacea as a source for dispersal and diversification of murine rodents](https://doi.org/10.1111/jbi.13720). _Journal of Biogeography_. doi: 10.1111/jbi.13720.
+Rowe, KC, AS Achmadi, P-H Fabre, JJ Schenk, SJ Steppan, **JA Esselstyn**. 2019. [Oceanic islands of Wallacea as a source for dispersal and diversification of murine rodents](https://doi.org/10.1111/jbi.13720). _Journal of Biogeography_. doi: 10.1111/jbi.13720. [PDF](publications/2019/Rowe-2019.pdf)
 
 Roycroft, EJ, **JA Nations**, KC Rowe. 2019. [Environment predicts repeated body size shifts in a recent radiation of Australian mammals](https://doi.org/10.1111/evo.13859). _Evolution_. doi: 10.1111/evo.13859.
 
