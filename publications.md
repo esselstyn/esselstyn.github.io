@@ -9,11 +9,11 @@ Publications are listed below, by year. The linked titles will take you to the p
 ### 2020
 **Babb-Biernacki**, **SJ**, **JA Esselstyn**, VP Doyle. 2020. [Rethinking host range in _Pneumocystis_](https://doi.org/10.1371/journal.ppat.1008824). _PLoS Pathogens_. 16(9): e1008824.
 
-**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2020. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. doi: 10.1111/zsc.12460.
+**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2020. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
 
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
 
-**Nations, JA**, GG Mount, **SM Morere**, AS Achmadi, KC Rowe, **JA Esselstyn**. 2020. [Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals](https://doi.org/10.1111/evo.14156). _Evolution_. doi: 10.1111/evo.14156.
+**Nations, JA**, GG Mount, **SM Morere**, AS Achmadi, KC Rowe, **JA Esselstyn**. 2020. [Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals](https://doi.org/10.1111/evo.14156). _Evolution_. doi: 10.1111/evo.14156. [PDF](publications/2020-Nations-2020a.pdf)
 
 **Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2020. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
 
