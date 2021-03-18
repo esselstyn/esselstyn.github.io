@@ -37,12 +37,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 </div>
 
 <div markdown="1">
-<img src="images/jon.jpg" class="left" alt="Jon" width="300">  
-
-**Jon Nations** is a PhD student investigating the ecomorphological evolution and community ecology of rodents. Jon received his Bachelor's degree from the University of Alaska. He is supported at LSU by a Graduate Research Fellowship from the National Science Foundation.  In addition to his own research, Jon has contributed substantially to our general goals by undertaking collecting expeditions to Malaysia and Indonesia.
-</div>
-
-<div markdown="1">
 <img src="images/spenser.jpg" class="left" alt="Spenser" width="300">  
 
 **Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by [Vinson Doyle](https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php), a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
@@ -59,3 +53,9 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 **Austin Chipps** is a PhD student interested in population genetics and molecular evolution. He received his Bachelors degree from Central College and his Masters degree from Texas Christian University.  His Masters thesis examined the population genetics of bats in south Texas.     
 </div>
+
+## Lab Alumni:
+[Tom Giarla](http://www.tomgiarla.com/), post-doc 2013-2015.
+Ryan Eldridge, MS 2017
+[Terry Demos](https://scholar.google.com/citations?user=Q25QoZAAAAAJ&hl=en), post-doc 2015-2017
+[Jon Nations](https://scholar.google.com/citations?user=vrqbagwAAAAJ&hl=en&oi=ao), PhD 2020
