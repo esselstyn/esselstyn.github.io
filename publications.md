@@ -9,7 +9,7 @@ Publications are listed below, by year. The linked titles will take you to the p
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
-**Hernández-Canchola, G**, LD Verde Arregoitia, P Colunga-Salas, YA Gomez-Jimenez, L Leon-Paniagua. 2021. [A global review of phylogeographic studies on bats](https://doi.org/0.1007/978-3-030-54727-1_18) Pp. 289-309 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
+**Hernández-Canchola, G**, LD Verde Arregoitia, P Colunga-Salas, YA Gomez-Jimenez, L Leon-Paniagua. 2021. [A global review of phylogeographic studies on bats](https://doi.org/10.1007/978-3-030-54727-1_18) Pp. 289-309 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
 ### 2020
 **Babb-Biernacki**, **SJ**, **JA Esselstyn**, VP Doyle. 2020. [Rethinking host range in _Pneumocystis_](https://doi.org/10.1371/journal.ppat.1008824). _PLoS Pathogens_. 16(9): e1008824.
