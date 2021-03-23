@@ -11,7 +11,7 @@ Publications are listed below, by year. The linked titles will take you to the p
 
 Colunga-Salas, P, **G Hernández-Canchola**. 2020. [Bats and humans during the SARS-CoV-2 outbreak: The case of bat-coronaviruses from Mexico](https://doi.org/10.1111/tbed.13571). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13751. [PDF](publications/2020/Colunga-2020.pdf)
 
-Colunga-Salas, P, ** G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of Borrelia burgdorferi sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
+Colunga-Salas, P, **G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of Borrelia burgdorferi sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
 
 **Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2020. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
 
