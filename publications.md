@@ -9,6 +9,10 @@ Publications are listed below, by year. The linked titles will take you to the p
 ### 2020
 **Babb-Biernacki**, **SJ**, **JA Esselstyn**, VP Doyle. 2020. [Rethinking host range in _Pneumocystis_](https://doi.org/10.1371/journal.ppat.1008824). _PLoS Pathogens_. 16(9): e1008824.
 
+Colunga-Salas, P, **G Hernández-Canchola**. 2020. [Bats and humans during the SARS-CoV-2 outbreak: The case of bat-coronaviruses from Mexico](https://doi.org/10.1111/tbed.13571). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13751. [PDF](publications/2020/Colunga-2020.pdf)
+
+Colunga-Salas, P, ** G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of Borrelia burgdorferi sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
+
 **Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2020. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
 
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
