@@ -4,7 +4,7 @@ title: Publications
 ---
 
 # Publications  
-Publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
+Lab publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
