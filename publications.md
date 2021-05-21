@@ -11,7 +11,7 @@ Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats 
 
 **Hernández-Canchola, G**, LD Verde Arregoitia, P Colunga-Salas, YA Gomez-Jimenez, L León-Paniagua. 2021. [A global review of phylogeographic studies on bats](https://doi.org/10.1007/978-3-030-54727-1_18). Pp. 289-309 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
-**Hernández-Canchola, G**, L. León-Paniagua, **JA Esselstyn**. 2021. [Mitochondrial DNA indicates paraphyletic relationships of disjunct populations in the _Neotoma mexicana_ species group](https://doi.org/10.12933/therya-21-1082). _Therya_. doi: 10.12933/therya-21-1082.
+**Hernández-Canchola, G**, L. León-Paniagua, **JA Esselstyn**. 2021. [Mitochondrial DNA indicates paraphyletic relationships of disjunct populations in the _Neotoma mexicana_ species group](https://doi.org/10.12933/therya-21-1082). _Therya_. doi: 10.12933/therya-21-1082. [PDF](publications/2021/Hernandez-Canchola-2021.pdf)
 
 Roycroft, E, A Achmadi, CM Callahan, **JA Esselstyn**, JM Good, A Moussalli, KC Rowe. 2021. [Molecular evolution of ecological specialisation: genomic insights from the diversification of murine rodents](https://doi.org/10.1093/gbe/evab103). _Genome Biology and Evolution_. doi: 10.1093/gbe/evab103.
 
