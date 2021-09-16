@@ -31,12 +31,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 ## Grad Students:
 <div markdown="1">
-<img src="images/Mark.jpg" class="left" alt="Mark" width="300">  
-
-**Mark Swanson** is a PhD student studying the evolution of rodents and their microbiomes, as it relates to dietary evolution. Mark obtained his Bachelor's degree from Illinois Wesleyan University. He has contributed heavily to our efforts to better understand phylogenetic relationships among all mammals and to our field program, including participation in four expeditions to Sulawesi.  
-</div>
-
-<div markdown="1">
 <img src="images/spenser.jpg" class="left" alt="Spenser" width="300">  
 
 **Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by [Vinson Doyle](https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php), a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
@@ -59,3 +53,4 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 Ryan Eldridge, MS 2017  
 [Terry Demos](https://scholar.google.com/citations?user=Q25QoZAAAAAJ&hl=en), post-doc 2015-2017  
 [Jon Nations](https://scholar.google.com/citations?user=vrqbagwAAAAJ&hl=en&oi=ao), PhD 2020  
+[Mark Swanson](https://scholar.google.com/citations?user=Dw85wEcAAAAJ&hl=en), PhD 2021
