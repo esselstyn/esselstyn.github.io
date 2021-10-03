@@ -9,9 +9,15 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
+**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 202 . [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
+
 **Hernández-Canchola, G**, LD Verde Arregoitia, P Colunga-Salas, YA Gomez-Jimenez, L León-Paniagua. 2021. [A global review of phylogeographic studies on bats](https://doi.org/10.1007/978-3-030-54727-1_18). Pp. 289-309 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
 **Hernández-Canchola, G**, L. León-Paniagua, **JA Esselstyn**. 2021. [Mitochondrial DNA indicates paraphyletic relationships of disjunct populations in the _Neotoma mexicana_ species group](https://doi.org/10.12933/therya-21-1082). _Therya_. doi: 10.12933/therya-21-1082. [PDF](publications/2021/Hernandez-Canchola-2021.pdf)
+
+**Nations, JA**, GG Mount, **SM Morere**, AS Achmadi, KC Rowe, **JA Esselstyn**. 2021. [Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals](https://doi.org/10.1111/evo.14156). _Evolution_. 75:376--393. doi: 10.1111/evo.14156. [PDF](publications/2020/Nations-2020a.pdf)
+
+**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2021. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. 85:168--172. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
 
 Roycroft, E, A Achmadi, CM Callahan, **JA Esselstyn**, JM Good, A Moussalli, KC Rowe. 2021. [Molecular evolution of ecological specialisation: genomic insights from the diversification of murine rodents](https://doi.org/10.1093/gbe/evab103). _Genome Biology and Evolution_. doi: 10.1093/gbe/evab103.
 
@@ -24,13 +30,7 @@ Colunga-Salas, P, **G Hernández-Canchola**. 2020. [Bats and humans during the S
 
 Colunga-Salas, P, **G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of Borrelia burgdorferi sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
 
-**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2020. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
-
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
-
-**Nations, JA**, GG Mount, **SM Morere**, AS Achmadi, KC Rowe, **JA Esselstyn**. 2020. [Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals](https://doi.org/10.1111/evo.14156). _Evolution_. doi: 10.1111/evo.14156. [PDF](publications/2020/Nations-2020a.pdf)
-
-**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2020. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
 
 ### 2019
 **Esselstyn, JA**, AS Achmadi, **H Handika**, TC Giarla, KC Rowe. 2019. [A new climbing shrew from Sulawesi highlights the tangled taxonomy of an endemic radiation](https://doi.org/10.1093/jmammal/gyz077). _Journal of Mammalogy_. 100:1713-1725. doi: 10.1093/jmammal/gyz077. [PDF](publications/2019/Esselstyn-2019.pdf)
