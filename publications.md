@@ -15,7 +15,7 @@ Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats 
 
 Roycroft, E, A Achmadi, CM Callahan, **JA Esselstyn**, JM Good, A Moussalli, KC Rowe. 2021. [Molecular evolution of ecological specialisation: genomic insights from the diversification of murine rodents](https://doi.org/10.1093/gbe/evab103). _Genome Biology and Evolution_. doi: 10.1093/gbe/evab103.
 
-Upham, NS, **JA Esselstyn**, W Jetz. 2021. [Molecules and fossils tell distinct yet complementary stories of mammal diversification](https://doi.org/10.1016/j.cub.2021.07.012). _Current Biology_. doi: 10.1016/j.cub.2021.07.012.
+Upham, NS, **JA Esselstyn**, W Jetz. 2021. [Molecules and fossils tell distinct yet complementary stories of mammal diversification](https://doi.org/10.1016/j.cub.2021.07.012). _Current Biology_. doi: 10.1016/j.cub.2021.07.012. [PDF](publications/2021/Upham-2021.pdf)
 
 ### 2020
 **Babb-Biernacki**, **SJ**, **JA Esselstyn**, VP Doyle. 2020. [Rethinking host range in _Pneumocystis_](https://doi.org/10.1371/journal.ppat.1008824). _PLoS Pathogens_. 16(9): e1008824.
