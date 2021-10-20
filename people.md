@@ -50,7 +50,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 ## Lab Alumni:
 [Tom Giarla](http://www.tomgiarla.com/), post-doc 2013-2015  
-Ryan Eldridge, MS 2017  
+Ryan Eldridge, MS 2016  
 [Terry Demos](https://scholar.google.com/citations?user=Q25QoZAAAAAJ&hl=en), post-doc 2015-2017  
 [Jon Nations](https://scholar.google.com/citations?user=vrqbagwAAAAJ&hl=en&oi=ao), PhD 2020  
 [Mark Swanson](https://scholar.google.com/citations?user=Dw85wEcAAAAJ&hl=en), PhD 2021  
