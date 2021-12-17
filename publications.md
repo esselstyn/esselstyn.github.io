@@ -9,7 +9,9 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
-**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 202 . [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
+**Esselstyn, JA**, AS Achmadi, **H Handika**, **MT Swanson**, TC Giarla, KC Rowe. 2021. [Fourteen new, endemic species of shrew (genus _Crocidura_) from Sulawesi reveal a spectacular island radiation](http://hdl.handle.net/2246/7289). _Bulletin of the American Museum of Natural History_. 454: 1-108.
+ 
+**Handika, H**, AS Achmadi, **JA Esselstyn**, KC Rowe. 2021. [Molecular and morphological systematics of the Bunomys division (Rodentia: Muridae), an endemic radiation on Sulawesi](https://doi.org/10.1111/zsc.12460). _Zoologica Scripta_. 50: 141-154. [PDF](publications/2020/Handika-2020.pdf)
 
 **Hernández-Canchola, G**, LD Verde Arregoitia, P Colunga-Salas, YA Gomez-Jimenez, L León-Paniagua. 2021. [A global review of phylogeographic studies on bats](https://doi.org/10.1007/978-3-030-54727-1_18). Pp. 289-309 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
 
@@ -17,7 +19,7 @@ Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats 
 
 **Nations, JA**, GG Mount, **SM Morere**, AS Achmadi, KC Rowe, **JA Esselstyn**. 2021. [Locomotory mode transitions alter phenotypic evolution and lineage diversification in an ecologically rich clade of mammals](https://doi.org/10.1111/evo.14156). _Evolution_. 75:376--393. doi: 10.1111/evo.14156. [PDF](publications/2020/Nations-2020a.pdf)
 
-**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2021. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. 85:168--172. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
+**Nations, JA**, A Mursyid, RD Busta, SP Adrian, **H Handika**, Apandi, AS Achmadi, **JA Esselstyn**. 2021. [The first report of albinism in a Sundaland endemic rodent](https://doi.org/10.1515/mammalia-2020-0047). _Mammalia_. 85:168-172. doi: 10.1515/mammalia-2020-0047. [PDF](publications/2020/Nations-2020.pdf)
 
 Roycroft, E, A Achmadi, CM Callahan, **JA Esselstyn**, JM Good, A Moussalli, KC Rowe. 2021. [Molecular evolution of ecological specialisation: genomic insights from the diversification of murine rodents](https://doi.org/10.1093/gbe/evab103). _Genome Biology and Evolution_. doi: 10.1093/gbe/evab103.
 
