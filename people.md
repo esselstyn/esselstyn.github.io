@@ -12,18 +12,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 ## Post docs:
 <div markdown="1">
-<img src="images/janet.jpg" class="left" alt="Janet" width="300">
-
-**Janet Buckner** is a post doctoral scholar with research interests spanning macroevolution, biogeography, and molecular evolution in birds and mammals. Janet received her PhD from UCLA and joined us at LSU in early 2020. For more about Janet, see her webpage [here](https://black2nature.weebly.com/). Her Google Scholar profile is [here](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao).
-</div>
-
-<div markdown="1">
-<img src="images/giovani.jpg" class="left" alt="Giovani" width="300">
-
-**Giovani Hernández Canchola** is a post doctoral fellow working in the lab. He is investigating the evolutionary history and biogeography of neotropical rodents. Giovani received his PhD from the Universidad Nacional Autónoma de México in 2018. He is supported by a fellowship from the CONACyT. His Google Scholar profile is available [here](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works).
-</div>
-
-<div markdown="1">
 <img src="images/carl.JPG" class="left" alt="Carl" width="300">
 
 **Carl Hutter** is a post doctoral scholar researching molecular evolution in rodents, as part of our project investigating rates of evolution in molecules, phenotypes, and lineages in the the adaptive radiation of Murinae. Carl received his PhD from the University of Kansas in 2019. His research interests include amphibian systematics and trait evolution, as it relates to environmental circumstances. Carl's Google Scholar profile is [here](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao).
@@ -53,4 +41,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 Ryan Eldridge, MS 2016  
 [Terry Demos](https://scholar.google.com/citations?user=Q25QoZAAAAAJ&hl=en), post-doc 2015-2017  
 [Jon Nations](https://scholar.google.com/citations?user=vrqbagwAAAAJ&hl=en&oi=ao), PhD 2020  
-[Mark Swanson](https://scholar.google.com/citations?user=Dw85wEcAAAAJ&hl=en), PhD 2021  
+[Mark Swanson](https://scholar.google.com/citations?user=Dw85wEcAAAAJ&hl=en), PhD 2021 
+[Janet Buckner](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao), post-doc 2020-2021
+[Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021
