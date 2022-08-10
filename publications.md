@@ -7,9 +7,11 @@ title: Publications
 Lab publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
 ### 2022
+**Babb-Biernacki, SJ, JA Esselstyn**, and VP Doyle. 2022. [Predicting species boundaries and assessing undescribed diversity in _Pneumocystis_, an obligate lung symbiont](https://doi.org/10.3390/jof8080799). _Journal of Fungi_ 8: 799.  
+
 **Handika, H, JA Esselstyn**. 2022. [SEGUL: An ultrafast, memory-efficient alignment manipulation and summary tool for phylogenomics](https://doi.org/10.22541/au.165167823.30911834/v1). _Authorea Preprints_  
 
-**Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Mitochondrial DNA and other lines of evidence clarify species diversity in the _Peromyscus truei_ species group (Cricetidae: Neotominae)](https://doi.org/10.1515/mammalia-2021-0146). _Mammalia_  
+**Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Mitochondrial DNA and other lines of evidence clarify species diversity in the _Peromyscus truei_ species group (Cricetidae: Neotominae)](https://doi.org/10.1515/mammalia-2021-0146). _Mammalia_  86: 380-392.  
 
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
