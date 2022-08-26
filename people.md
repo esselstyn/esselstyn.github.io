@@ -36,6 +36,12 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 **Austin Chipps** is a PhD student interested in population genetics and molecular evolution. He received his Bachelors degree from Central College and his Masters degree from Texas Christian University.  His Masters thesis examined the population genetics of bats in south Texas.     
 </div>
 
+<div markdown="1">
+<img src="images/darwin.jpg" class="left" alt="Darwin" width="300">  
+
+**Darwin Morales-Martínez** is a PhD student with interests in Neotropical mammal diversity. Darwin received his BS and MS from Universidad Nacional de Colombia. He has an impressive research record, primarily focused bats [Google Scholar](https://scholar.google.com/citations?user=PJhU5VcAAAAJ&hl=es).
+</div>
+
 ## Lab Alumni:
 [Tom Giarla](http://www.tomgiarla.com/), post-doc 2013-2015  
 Ryan Eldridge, MS 2016  
