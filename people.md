@@ -39,7 +39,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 <div markdown="1">
 <img src="images/darwin.jpg" class="left" alt="Darwin" width="300">  
 
-**Darwin Morales-Martínez** is a PhD student with interests in Neotropical mammal diversity. Darwin received his BS and MS from Universidad Nacional de Colombia. He has an impressive research record, primarily focused bats [Google Scholar](https://scholar.google.com/citations?user=PJhU5VcAAAAJ&hl=es).
+**Darwin Morales-Martínez** is a PhD student with interests in Neotropical mammal diversity. Darwin received his BS and MS from Universidad Nacional de Colombia. He has an impressive research record, primarily focused bat systematics and natural history ([Google Scholar](https://scholar.google.com/citations?user=PJhU5VcAAAAJ&hl=es)).
 </div>
 
 ## Lab Alumni:
