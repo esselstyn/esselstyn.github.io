@@ -14,6 +14,8 @@ Lab publications are listed below, by year. The linked titles will take you to t
 **Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Mitochondrial DNA and other lines of evidence clarify species diversity in the _Peromyscus truei_ species group (Cricetidae: Neotominae)](https://doi.org/10.1515/mammalia-2021-0146). _Mammalia_  86: 380-392. [PDF](publications/2022/hernandez-canchola-2022.pdf)  
 
 **Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Paraphyletic relationships revealed by mitochondrial DNA in the Peromyscus mexicanus species group (Rodentia: Cricetidae)](https://doi.org/10.22201/ib.20078706e.2022.93.3811). _Revista Mexicana de Biodiversidad_ 93: e933811.  
+  
+**Swanson, MT**, MW Henson, **H Handika**, AS Achmadi, S Anita, KC Rowe, **JA Esselstyn**. 2022. [Mycoplasmataceae dominate microbial community differences between gut regions in mammals with a simple gut architecture](https://doi.org/10.1093/jmammal/gyac098). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyac098.  
 
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
