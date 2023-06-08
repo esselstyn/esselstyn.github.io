@@ -46,7 +46,7 @@ Upham, NS, **JA Esselstyn**, W Jetz. 2021. [Molecules and fossils tell distinct 
 
 Colunga-Salas, P, **G Hernández-Canchola**. 2020. [Bats and humans during the SARS-CoV-2 outbreak: The case of bat-coronaviruses from Mexico](https://doi.org/10.1111/tbed.13571). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13751. [PDF](publications/2020/Colunga-2020.pdf)
 
-Colunga-Salas, P, **G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of Borrelia burgdorferi sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
+Colunga-Salas, P, **G Hernández-Canchola**, S Sánchez-Montes, Y N Lozano-Sardandeta, I Becker. 2020. [Genetic diversity of _Borrelia burgdorferi_ sensu stricto: Novel strains from Mexican wild rodents](https://doi.org/10.1111/tbed.13780). _Transboundary and Emerging Diseases_. doi: 10.1111/tbed.13780. [PDF](publications/2020/Colunga-2020a.pdf)
 
 Martinez, Q, J Clavel, **JA Esselstyn**, AS Achmadi, C Grohe, N Pirot, P-H Fabre. 2020. [Convergent evolution of olfactory and thermoregulatory capacities in small amphibious mammals](https://doi.org/10.1073/pnas.1917836117). _Proceedings of the National Academy of Sciences, USA_. 117:8958-8965. doi: 10.1073/pnas.1917836117. [PDF](publications/2020/Martinez-2020.pdf)
 
