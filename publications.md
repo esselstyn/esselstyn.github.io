@@ -15,7 +15,7 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2022
 **Babb-Biernacki, SJ, JA Esselstyn**, and VP Doyle. 2022. [Predicting species boundaries and assessing undescribed diversity in _Pneumocystis_, an obligate lung symbiont](https://doi.org/10.3390/jof8080799). _Journal of Fungi_ 8: 799.  
 
-**Handika, H, JA Esselstyn**. 2022. [SEGUL: An ultrafast, memory-efficient alignment manipulation and summary tool for phylogenomics](https://doi.org/10.22541/au.165167823.30911834/v1). _Authorea Preprints_  
+**Handika, H, JA Esselstyn**. 2022. [SEGUL: An ultrafast, memory-efficient alignment manipulation and summary tool for phylogenomics](https://www.authorea.com/doi/full/10.22541/au.165167823.30911834). _Authorea Preprints_  DOI: 10.22541/au.165167823.30911834/v1.
 
 **Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Mitochondrial DNA and other lines of evidence clarify species diversity in the _Peromyscus truei_ species group (Cricetidae: Neotominae)](https://doi.org/10.1515/mammalia-2021-0146). _Mammalia_  86: 380-392. [PDF](publications/2022/hernandez-canchola-2022.pdf)  
 
