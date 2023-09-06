@@ -21,7 +21,7 @@ Lab publications are listed below, by year. The linked titles will take you to t
 
 **Hernández-Canchola, G**, L León-Paniagua, **JA Esselstyn**. 2022. [Paraphyletic relationships revealed by mitochondrial DNA in the Peromyscus mexicanus species group (Rodentia: Cricetidae)](https://doi.org/10.22201/ib.20078706e.2022.93.3811). _Revista Mexicana de Biodiversidad_ 93: e933811.  
 
-**Nations, JA**, TC Giarla, MA Morni, JW Dee, **MT Swanson**, AE Hiller, FAA Khan, **JA Esselstyn**. 2022. [Molecular data from the holotype of the enigmatic Bornean Black Shrew, _Suncus ater_ Medway, 1965 (Soricidae, Crocidurinae), place it in the genus _Palawanosorex_](https://doi.org/10.3897/zookeys.1137.94217) _ZooKeys_ 1137: 17--31.
+**Nations, JA**, TC Giarla, MA Morni, JW Dee, **MT Swanson**, AE Hiller, FAA Khan, **JA Esselstyn**. 2022. [Molecular data from the holotype of the enigmatic Bornean Black Shrew, _Suncus ater_ Medway, 1965 (Soricidae, Crocidurinae), place it in the genus _Palawanosorex_](https://doi.org/10.3897/zookeys.1137.94217). _ZooKeys_ 1137: 17--31.
 
 ### 2021
 Colunga-Salas, P, **G Hernández-Canchola**, E Grostieta, I Becker. 2021. [Bats as hosts of important unicellular endoparasites](https://doi.org/10.1007/978-3-030-54727-1_20). Pp. 331-348 in Lim, BK et al. (eds) 50 Years of Bat Research. Springer, Cham.
