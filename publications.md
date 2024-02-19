@@ -12,7 +12,7 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2023
 **Esselstyn, JA**, G Hernández-Canchola. 2023. [Special issue in honor of Dr. Alfred L. Gardner](https://doi.org/10.12933/therya-23-3313). _Therya_ 14: 1-4. DOI: 10.12933/therya-23-3313.
 
-Kopania, EEK, GWC Thomas, CR Hutter, SME MOrtimer, CM Callahan, E Roycroft, AS Achmadi, WG Breed, NL Clark, **JA Esselstyn**, KC Rowe, JM Good. 2023. [Molecular evolution of male reproduction across species with highly divergent sperm morphology in diverse murine rodents](https://doi.org/10.1101/2023.08.30.555585). _bioRxiv_ 2023.08.30.555585.
+Kopania, EEK, GWC Thomas, CR Hutter, SME Mortimer, CM Callahan, E Roycroft, AS Achmadi, WG Breed, NL Clark, **JA Esselstyn**, KC Rowe, JM Good. 2023. [Molecular evolution of male reproduction across species with highly divergent sperm morphology in diverse murine rodents](https://doi.org/10.1101/2023.08.30.555585). _bioRxiv_ 2023.08.30.555585.
 
 Nachman, MW et al. 2023. [Specimen collection is essential for modern science](https://doi.org/10.1371/journal.pbio.3002318). _PLoS Biology_ 21: e3002318. DOI: 10.1371/journal.pbio.3002318.
 
