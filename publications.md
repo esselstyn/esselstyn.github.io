@@ -7,6 +7,8 @@ title: Publications
 Lab publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
 ### 2024
+**Handika, H, JA Esselstyn**. 2024. [SEGUL: Ultrafast, memory-efficient and mobile-friendly software for manipulating and summarizing phylogenomic datasets](https://doi.org/10.1111/1755-0998.13964). _Molecular Ecology Resources_ e13964. DOI: 10.1111/1755-0998.13964.
+
 **Nations, JA, H Handika**, A Mursyid, RD Busta, Apandi, AS Achmadi, **JA Esselstyn**. 2024. [Three new shrews (Soricidae: _Crocidura_) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic sister taxa](https://doi.org/10.1093/jmammal/gyad126). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyad126.
 
 ### 2023
