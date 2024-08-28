@@ -46,7 +46,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 <div markdown="1">
 <img src="images/ellie.jpg" class="left" alt="Ellie" width="300">  
 
-**Ellie Bollich** is participating in the ([LaGNiAppE scholars](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php)) program at LSU. She is working on the systematics of Sumatran shrews.  
+**Ellie Bollich** is participating in the [LaGNiAppE scholars](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php) program at LSU. She is working on the systematics of Sumatran shrews. Ellie received her B.S. in Zoology from Colorado State U. in 2024.
 </div>
 
 
