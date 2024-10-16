@@ -9,6 +9,8 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2024
 **Handika, H, JA Esselstyn**. 2024. [SEGUL: Ultrafast, memory-efficient and mobile-friendly software for manipulating and summarizing phylogenomic datasets](https://doi.org/10.1111/1755-0998.13964). _Molecular Ecology Resources_ e13964. DOI: 10.1111/1755-0998.13964.
 
+Kopania, EEK, GWC Thomas, **CR Hutter**, SE Mortimer, CM Callahan, E Roycroft, AS Achmadi, WG Breed, NL Clark, **JA Esselstyn**, KC Rowe, JM Good. 2024. [Sperm competition intensity shapes divergence in both sperm morphology and reproductive genes across murine rodents](https://doi.org/10.1093/evolut/qpae146). _Evolution_ DOI: 10.1093/evolut/qpae146.
+
 **Nations, JA, H Handika**, A Mursyid, RD Busta, Apandi, AS Achmadi, **JA Esselstyn**. 2024. [Three new shrews (Soricidae: _Crocidura_) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic sister taxa](https://doi.org/10.1093/jmammal/gyad126). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyad126.
 
 ### 2023
