@@ -47,7 +47,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 ## Lab Alumni:
 [Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021  
 [Janet Buckner](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao), post-doc 2020-2021  
-[Carl Hutter](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao), post-doc 2019-2021
+[Carl Hutter](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao), post-doc 2019-2021  
 [Mark Swanson](https://scholar.google.com/citations?user=Dw85wEcAAAAJ&hl=en), PhD 2021  
 [Jon Nations](https://scholar.google.com/citations?user=vrqbagwAAAAJ&hl=en&oi=ao), PhD 2020  
 [Terry Demos](https://scholar.google.com/citations?user=Q25QoZAAAAAJ&hl=en), post-doc 2015-2017  
