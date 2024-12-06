@@ -13,6 +13,8 @@ Kopania, EEK, GWC Thomas, **CR Hutter**, SE Mortimer, CM Callahan, E Roycroft, A
 
 **Nations, JA, H Handika**, A Mursyid, RD Busta, Apandi, AS Achmadi, **JA Esselstyn**. 2024. [Three new shrews (Soricidae: _Crocidura_) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic sister taxa](https://doi.org/10.1093/jmammal/gyad126). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyad126.
 
+**Nations, JA**, BA Kohli, **H Handika**, AS Achmadi, MJ Polito, KC Rowe, **JA Esselstyn**. 2024. [The roles of isolation and interspecific interaction in generating the functional diversity of an insular radiation](https://doi.org/10.1111/oik.10888). _Oikos_ DOI: 10.1111/oik.10888.  
+
 ### 2023
 **Esselstyn, JA**, G Hernández-Canchola. 2023. [Special issue in honor of Dr. Alfred L. Gardner](https://doi.org/10.12933/therya-23-3313). _Therya_ 14: 1-4. DOI: 10.12933/therya-23-3313.
 
