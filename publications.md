@@ -6,6 +6,12 @@ title: Publications
 # Publications  
 Lab publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 
+### 2025  
+Adams, AL, AS Achmadi, A Mursyid, **H Handika**, M Rizaldi TJP Nurdin, **JA Esselstyn**, SL Perkins, KMC Rowe, KC Rowe. 2025. [Wildlife disease surveillance from village to peak: Trypanosome infections of mammals on Sulawesi revealed higher prevalence in intact montane forests](https://doi.org/10.12933/therya-25-6154). _Therya_16:125--141.
+
+**Nations, JA**, BA Kohli, **H Handika**, AS Achmadi, MJ Polito, KC Rowe, **JA Esselstyn**. 2024. [The roles of isolation and interspecific interaction in generating the functional diversity of an insular radiation](https://doi.org/10.1111/oik.10888). _Oikos_ DOI: 10.1111/oik.10888.  
+
+
 ### 2024
 **Handika, H, JA Esselstyn**. 2024. [SEGUL: Ultrafast, memory-efficient and mobile-friendly software for manipulating and summarizing phylogenomic datasets](https://doi.org/10.1111/1755-0998.13964). _Molecular Ecology Resources_ e13964. DOI: 10.1111/1755-0998.13964.
 
@@ -13,7 +19,6 @@ Kopania, EEK, GWC Thomas, **CR Hutter**, SE Mortimer, CM Callahan, E Roycroft, A
 
 **Nations, JA, H Handika**, A Mursyid, RD Busta, Apandi, AS Achmadi, **JA Esselstyn**. 2024. [Three new shrews (Soricidae: _Crocidura_) from West Sumatra, Indonesia: elevational and morphological divergence in syntopic sister taxa](https://doi.org/10.1093/jmammal/gyad126). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyad126.
 
-**Nations, JA**, BA Kohli, **H Handika**, AS Achmadi, MJ Polito, KC Rowe, **JA Esselstyn**. 2024. [The roles of isolation and interspecific interaction in generating the functional diversity of an insular radiation](https://doi.org/10.1111/oik.10888). _Oikos_ DOI: 10.1111/oik.10888.  
 
 ### 2023
 **Esselstyn, JA**, G Hernández-Canchola. 2023. [Special issue in honor of Dr. Alfred L. Gardner](https://doi.org/10.12933/therya-23-3313). _Therya_ 14: 1-4. DOI: 10.12933/therya-23-3313.
