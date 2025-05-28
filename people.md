@@ -18,11 +18,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 **Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by [Vinson Doyle](https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php), a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
 </div>
 
-<div markdown="1">
-<img src="images/heru.jpg" class="left" alt="Heru" width="300">  
-
-**Heru Handika** is a PhD student interested in the biogeography and systematics of Southeast Asian mammals. He received his Bachelors degree from Andalas University and his Masters degree from the University of Melbourne. Heru has joined countless field expeditions, including work on Sumatra, Java, Borneo, Sulawesi, and in the Philippines. His Masters thesis examined the systematics and biogeography of *Bunomys*, a group of mice endemic to Sulawesi.    
-</div>
 
 <div markdown="1">
 <img src="images/austin.jpg" class="left" alt="Austin" width="300">  
@@ -45,6 +40,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 
 ## Lab Alumni:
+[Heru Handika](https://www.hhandika.com), PhD 2025
 [Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021  
 [Janet Buckner](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao), post-doc 2020-2021  
 [Carl Hutter](https://scholar.google.com/citations?user=iVRhKXQAAAAJ&hl=en&oi=ao), post-doc 2019-2021  
