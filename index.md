@@ -8,7 +8,7 @@ I am Curator of Mammals at the [Museum of Natural Science](https://www.lsu.edu/m
 
 <div markdown="1">  
 <img src="images/Crocidura.jpg" class="left" alt="shrew" width="500">
-<img src="images/Gede-Pangrango.jpg" class="left" alt="Gede-Pangrango, Java" width="450">
+<img src="images/Gede-Pangrango.jpg" class="left" alt="Gede-Pangrango, Java" width="445">
 </div>
   
 ## Contact Information:
