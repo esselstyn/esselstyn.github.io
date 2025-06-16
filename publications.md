@@ -9,6 +9,8 @@ Lab publications are listed below, by year. The linked titles will take you to t
 ### 2025  
 Adams, AL, AS Achmadi, A Mursyid, **H Handika**, M Rizaldi TJP Nurdin, **JA Esselstyn**, SL Perkins, KMC Rowe, KC Rowe. 2025. [Wildlife disease surveillance from village to peak: Trypanosome infections of mammals on Sulawesi revealed higher prevalence in intact montane forests](https://doi.org/10.12933/therya-25-6154). _Therya_ 16:125--141.
 
+**Babb-Biernacki, SJ**, L Peng, CM Jardine, JL Rothenburger, **MT Swanson**, JA Kovacs, **JA Esselstyn**, VP Doyle, L Ma. [Three distinct forms of _Pneumocystis_ coexist in individuals of two species of deer mice (genus _Peromyscus_)](https://doi.org/10.1016/j.meegid.2025.105767). _Infection, Genetics and Evolution_ DOI: 10.1016/j.meegid.2025.105767.  
+
 Giarla, TC, AS Achmadi, P-H Fabre, **H Handika**, **AS Chipps**, **MT Swanson**, **JA Nations**, MA Morni, J William-Dee, N Inayah, E Dwijayanti, MRTJP Nurdin, KE Griffin, FAA Khan, LR Heaney, KC Rowe, **JA Esselstyn**. 20225. [Systematics and historical biogeography of _Crunomys_ and _Maxomys_ (Muridae: Murinae), with the description of a new species from Sulawesi and new genus-level classification](https://doi.org/10.1093/jmammal/gyaf006). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyaf006.  
 
 **Nations, JA**, BA Kohli, **H Handika**, AS Achmadi, MJ Polito, KC Rowe, **JA Esselstyn**. 2025. [The roles of isolation and interspecific interaction in generating the functional diversity of an insular radiation](https://doi.org/10.1111/oik.10888). _Oikos_ DOI: 10.1111/oik.10888.  
