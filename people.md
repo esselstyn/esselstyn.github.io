@@ -31,15 +31,15 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 **Darwin Morales-Martínez** is a PhD student with interests in Neotropical mammal diversity. Darwin received his BS and MS from Universidad Nacional de Colombia. He has an impressive research record, primarily focused bat systematics and natural history ([Google Scholar](https://scholar.google.com/citations?user=PJhU5VcAAAAJ&hl=es)).
 </div>
 
-## Post Baccalaureates:
 <div markdown="1">
-<img src="images/ellie.jpg" class="left" alt="Ellie" width="300">  
+<img src="images/claire.jpg" class="left" alt="Claire" width="300">  
 
-**Ellie Bollich** is participating in the [LaGNiAppE scholars](https://www.lsu.edu/science/biosci/programs/postbacc-research/index.php) program at LSU. She is working on the systematics of Sumatran shrews. Ellie received her B.S. in Zoology from Colorado State U. in 2024.
+**Claire Watersmith** is a PhD student with interests in phylogeography and conservation biology. She received her BS from North Carolina State University and her MS from the University of North Carolina Wilmington, where she studied the population genetics of woodland jumping mice.
 </div>
 
 
 ## Lab Alumni:
+Ellie Bollich, post-bacc 2024-2025
 [Heru Handika](https://www.hhandika.com), PhD 2025  
 [Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021  
 [Janet Buckner](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao), post-doc 2020-2021  
