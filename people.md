@@ -39,7 +39,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 
 ## Lab Alumni:
-Ellie Bollich, post-bacc 2024-2025
+Ellie Bollich, post-bacc 2024-2025  
 [Heru Handika](https://www.hhandika.com), PhD 2025  
 [Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021  
 [Janet Buckner](https://scholar.google.com/citations?user=zmtii3oAAAAJ&hl=en&oi=ao), post-doc 2020-2021  
