@@ -13,6 +13,8 @@ Adams, AL, AS Achmadi, A Mursyid, **H Handika**, M Rizaldi TJP Nurdin, **JA Esse
 
 Giarla, TC, AS Achmadi, P-H Fabre, **H Handika**, **AS Chipps**, **MT Swanson**, **JA Nations**, MA Morni, J William-Dee, N Inayah, E Dwijayanti, MRTJP Nurdin, KE Griffin, FAA Khan, LR Heaney, KC Rowe, **JA Esselstyn**. 2025. [Systematics and historical biogeography of _Crunomys_ and _Maxomys_ (Muridae: Murinae), with the description of a new species from Sulawesi and new genus-level classification](https://doi.org/10.1093/jmammal/gyaf006). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyaf006.  
 
+Hinckley, A, GE Pinilla-Buitrago, JE Maldonado, MFC Flores, **JA Esselstyn**, N Inayah, MTR Hawkins. 2025. [Pliocene forest fragmentation shaped speciation in tropical Asia's giant squirrels (_Raufa__)](https://doi.org/10.1111/mec.70179). _Molecular Ecology_ e70179.
+
 Hutterer, R, **MT Swanson**, **JA Esselstyn**, LR Heaney. 2025. [The shrew of Nagaland: a remarkable new genus and species from northeast India, with a discussion of the phylogeny and classification of the Soricidae (Mammalia)](https://hdl.handle.net/2246/7508). _Bulletin of the American Museum of Natural History_ 474:1--69.  
 
 Kopania, EEK, GWC Thomas, **CR Hutter**, SE Mortimer, CM Callahan, E Roycroft, AS Achmadi, WG Breed, NL Clark, **JA Esselstyn**, KC Rowe, JM Good. 2025. [Sperm competition intensity shapes divergence in both sperm morphology and reproductive genes across murine rodents](https://doi.org/10.1093/evolut/qpae146). _Evolution_ DOI: 10.1093/evolut/qpae146.
