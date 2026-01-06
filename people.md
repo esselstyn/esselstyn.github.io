@@ -13,19 +13,6 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 ## Grad Students:
 <div markdown="1">
-<img src="images/spenser.jpg" class="left" alt="Spenser" width="300">  
-
-**Spenser Babb-Biernacki** is a PhD student interested in co-evolution between mammals and their pathogenic fungi. Spenser has a Bachelor's degree from Arizona State University and is supported by a fellowship from the Louisiana Board of Regents. She is co-advised by [Vinson Doyle](https://www.lsu.edu/agriculture/plant/about/faculty-staff/doyle.php), a collaborator in LSU's Department of Plant Pathalogy and Crop Physiology.  
-</div>
-
-
-<div markdown="1">
-<img src="images/austin.jpg" class="left" alt="Austin" width="300">  
-
-**Austin Chipps** is a PhD student interested in population genetics and molecular evolution. He received his Bachelors degree from Central College and his Masters degree from Texas Christian University.  His Masters thesis examined the population genetics of bats in south Texas.     
-</div>
-
-<div markdown="1">
 <img src="images/darwin.jpg" class="left" alt="Darwin" width="300">  
 
 **Darwin Morales-Martínez** is a PhD student with interests in Neotropical mammal diversity. Darwin received his BS and MS from Universidad Nacional de Colombia. He has an impressive research record, primarily focused bat systematics and natural history ([Google Scholar](https://scholar.google.com/citations?user=PJhU5VcAAAAJ&hl=es)).
@@ -39,6 +26,8 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 
 ## Lab Alumni:
+[Spenser Babb-Biernacki](https://scholar.google.com/citations?user=8hl2znQAAAAJ&hl=en), PhD 2025  
+[Austin Chipps](https://scholar.google.com/citations?user=5w8sJyIAAAAJ&hl=en), PhD 2025  
 Ellie Bollich, post-bacc 2024-2025  
 [Heru Handika](https://www.hhandika.com), PhD 2025  
 [Giovani Hernández-Canchola](https://scholar.google.com/citations?hl=en&user=B6rbNOEAAAAJ&view_op=list_works), post-doc 2019-2021  
