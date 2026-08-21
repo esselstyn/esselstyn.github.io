@@ -10,6 +10,12 @@ title: People
 I am a mammalian systematist with general interests in evolutionary biology and biogeography. My research explores questions of phylogeny, island biogeography, and taxonomy, but my students' interests expand the general lab efforts to include topics such as co-evolution and community ecology. All of our research relies heavily on voucher specimens held in natural history museums. As such, we place a premium on contributing to the growth, use, and value of museum collections. In recent years, we've collected mammal specimens in Indonesia, Malaysia, the Democratic Republic of the Congo, and the Southeastern U.S.
 </div>
 
+## Postdocs:
+<div markdown="1">
+<img src="images/david.jpg" class="left" alt="David" width="300">  
+
+**David Sneddon** is interested evolutionary processes operating at relatively short time intervals. He received his PhD from the University of Idaho in 2025, where he studied hybridization in chipmunks. He is continuing with that work at LSU, integrating comparative genomics with phenotypic data.  ([Google Scholar](https://scholar.google.com/citations?user=RQJ0eK0AAAAJ&hl=en&oi=ao)).
+</div>
 
 ## Grad Students:
 <div markdown="1">
