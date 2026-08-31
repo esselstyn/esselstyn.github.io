@@ -29,6 +29,7 @@ I am a mammalian systematist with general interests in evolutionary biology and 
 
 **Claire Watersmith** is a PhD student with interests in phylogeography and conservation biology. She received her BS from North Carolina State University and her MS from the University of North Carolina Wilmington, where she studied the population genetics of woodland jumping mice.
 
+<div markdown="1">
 <img src="images/owen.jpg" class="left" alt="Owen" width="300">  
 
 **Owen Conroy** is a PhD student with interests in physiology and evolution. He received his BS from Kent State University and his MS from the University Nebraska Omaha, where he studied thermal adaptations in lizards.
