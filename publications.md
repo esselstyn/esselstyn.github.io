@@ -6,6 +6,8 @@ title: Publications
 # Publications  
 Lab publications are listed below, by year. The linked titles will take you to the paper on the publisher's webpage. If you don't have a subscription and would like to request a reprint, click on the relevant pdf link below. My Google Scholar profile is [here](https://scholar.google.com/citations?user=8p7eEcAAAAAJ&hl=en). 
 ### 2026
+Heaney, LR, **AS Chipps**, MRM Duya, MV Duya, EA Rickart, **JA Esselstyn**. 2026. [Two new _Crunomys_ (Muridae): a second case of speciation within Mindoro, an oceanic Philippine island](https://doi.org/10.1093/jmammal/gyag094). _Journal of Mammalogy_ DOI: 10.1093/jmammal/gyag094.  
+
 **Chipps, AS**, **CR Hutter**, **TC Demos**, **JA Esselstyn**. 2026. [Genome evolution and the enigmatic axial skeleton of the hero shrew (Soricidae: _Scutisorex somereni_)](https://doi.org/10.1093/gbe/evag048). _Genome Biology and Evolution_ 18:evag048.  
 
 Hawkins, MTR, A Hinckley, MFC Flores, AS Achmadi, **JA Esselstyn**. 2026. [Molecular phylogeny of rare arboreal rats from SE Asia, genera _Pithecheir_ and _Pithecheirops_](https://doi.org/10.1007/s42991-026-00610-6). _Mammalian Biology_ DOI: 10.1007/s42991-026-00610-6.  
